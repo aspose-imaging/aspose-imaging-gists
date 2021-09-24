@@ -1,0 +1,3 @@
+[submodule "Net/CROP"]
+	path = "Net/CROP"
+	url = "https://gist.github.com/3d655d49cc1eaa396776d00bec85f200"
