@@ -1,3 +1,6 @@
 [submodule "Net/Resize"]
 	path = "Net/Resize"
 	url = "https://gist.github.com/86c29f2c35c7c19a0ae65cea371ab3e5"
+[submodule "Java/Resize"]
+	path = "Java/Resize"
+	url = "https://gist.github.com/c23856d7fdf11ecc5bcf73a03ad0a44d"
