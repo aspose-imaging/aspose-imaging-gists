@@ -1,12 +1,15 @@
-[submodule "Net/Resize"]
-	path = "Net/Resize"
-	url = "https://gist.github.com/86c29f2c35c7c19a0ae65cea371ab3e5"
-[submodule "Java/Resize"]
-	path = "Java/Resize"
-	url = "https://gist.github.com/c23856d7fdf11ecc5bcf73a03ad0a44d"
 [submodule "Java/Merge"]
 	path = "Java/Merge"
 	url = "https://gist.github.com/d8c86be526ab92ccc5eaafd1eaa1320b"
+[submodule "Java/Resize"]
+	path = "Java/Resize"
+	url = "https://gist.github.com/c23856d7fdf11ecc5bcf73a03ad0a44d"
+[submodule "Net/CROP"]
+	path = "Net/CROP"
+	url = "https://gist.github.com/542ef8811ecf66dac9f7830226671e37"
 [submodule "Net/Merge"]
 	path = "Net/Merge"
 	url = "https://gist.github.com/c3b1f39eaf550446e244e071b29d5191"
+[submodule "Net/Resize"]
+	path = "Net/Resize"
+	url = "https://gist.github.com/86c29f2c35c7c19a0ae65cea371ab3e5"
