@@ -4,6 +4,78 @@
 [submodule "Java/Resize"]
 	path = "Java/Resize"
 	url = "https://gist.github.com/c23856d7fdf11ecc5bcf73a03ad0a44d"
+[submodule "Net/Conversion/apng"]
+	path = "Net/Conversion/apng"
+	url = "https://gist.github.com/e6756e10d2c1e793c74b42a091958ece"
+[submodule "Net/Conversion/bmp"]
+	path = "Net/Conversion/bmp"
+	url = "https://gist.github.com/6ec855304907234b26961df70f13afb0"
+[submodule "Net/Conversion/cdr"]
+	path = "Net/Conversion/cdr"
+	url = "https://gist.github.com/8b870aa054949d3119547e4fc0696b64"
+[submodule "Net/Conversion/cmx"]
+	path = "Net/Conversion/cmx"
+	url = "https://gist.github.com/71185958cb05d74f34ef9960f8dda4dd"
+[submodule "Net/Conversion/dib"]
+	path = "Net/Conversion/dib"
+	url = "https://gist.github.com/c105a05d95529e2551aa29cd9dc8d8e8"
+[submodule "Net/Conversion/dicom"]
+	path = "Net/Conversion/dicom"
+	url = "https://gist.github.com/d2556ab69aeedafc6cf8c7c569c46075"
+[submodule "Net/Conversion/djvu"]
+	path = "Net/Conversion/djvu"
+	url = "https://gist.github.com/7cd7d94813fb73fe141054272437f6ae"
+[submodule "Net/Conversion/dng"]
+	path = "Net/Conversion/dng"
+	url = "https://gist.github.com/61a66808ddf0e2e9ba60c4e6e8c576c2"
+[submodule "Net/Conversion/emf"]
+	path = "Net/Conversion/emf"
+	url = "https://gist.github.com/6886c18d67fa6c7970d9cf260b077988"
+[submodule "Net/Conversion/emz"]
+	path = "Net/Conversion/emz"
+	url = "https://gist.github.com/339fb6f6f36b878e48c3cf057f895589"
+[submodule "Net/Conversion/eps"]
+	path = "Net/Conversion/eps"
+	url = "https://gist.github.com/7accc5c9da8ca6e7ba395aa038174d5e"
+[submodule "Net/Conversion/gif"]
+	path = "Net/Conversion/gif"
+	url = "https://gist.github.com/0dfac1d679fe6125d696d1a66d991346"
+[submodule "Net/Conversion/jpeg2000"]
+	path = "Net/Conversion/jpeg2000"
+	url = "https://gist.github.com/fd6e093454ec07a78c6573ee70c51a2c"
+[submodule "Net/Conversion/jpg"]
+	path = "Net/Conversion/jpg"
+	url = "https://gist.github.com/5df13c606b80d0d08b0f19fac967995c"
+[submodule "Net/Conversion/odg"]
+	path = "Net/Conversion/odg"
+	url = "https://gist.github.com/9cb710068cd36fa27e64a3e2c8dece30"
+[submodule "Net/Conversion/otg"]
+	path = "Net/Conversion/otg"
+	url = "https://gist.github.com/591ab204772afbc5e31c9168fbe0284c"
+[submodule "Net/Conversion/png"]
+	path = "Net/Conversion/png"
+	url = "https://gist.github.com/6013edc0c1b050c2c0bc2e34da7f3263"
+[submodule "Net/Conversion/svg"]
+	path = "Net/Conversion/svg"
+	url = "https://gist.github.com/0d1b88d7ec3f1fc9af01ac8a836869a1"
+[submodule "Net/Conversion/svgz"]
+	path = "Net/Conversion/svgz"
+	url = "https://gist.github.com/ae12c4da49ebc08ae79f7e9fc2839bbb"
+[submodule "Net/Conversion/tga"]
+	path = "Net/Conversion/tga"
+	url = "https://gist.github.com/7ea8d36893e41a713493a85f89a7bbc7"
+[submodule "Net/Conversion/tiff"]
+	path = "Net/Conversion/tiff"
+	url = "https://gist.github.com/a0918ab26b50f4aaa25213f37eb2e95b"
+[submodule "Net/Conversion/webp"]
+	path = "Net/Conversion/webp"
+	url = "https://gist.github.com/693590fa27d4fe2d795cc7fbcf5cbd64"
+[submodule "Net/Conversion/wmf"]
+	path = "Net/Conversion/wmf"
+	url = "https://gist.github.com/1bf18dd9bd143c0f8c4f8c47e2b51978"
+[submodule "Net/Conversion/wmz"]
+	path = "Net/Conversion/wmz"
+	url = "https://gist.github.com/69c0f75a96aeef906238823f6e345845"
 [submodule "Net/CROP"]
 	path = "Net/CROP"
 	url = "https://gist.github.com/542ef8811ecf66dac9f7830226671e37"
@@ -16,3 +88,6 @@
 [submodule "Net/Resize"]
 	path = "Net/Resize"
 	url = "https://gist.github.com/86c29f2c35c7c19a0ae65cea371ab3e5"
+[submodule "Net/Watermark"]
+	path = "Net/Watermark"
+	url = "https://gist.github.com/f63c201f51d5673401fc0d32a6e1c4b1"
