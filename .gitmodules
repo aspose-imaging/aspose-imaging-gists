@@ -1,9 +1,90 @@
+[submodule "Java/Conversion/apng"]
+	path = "Java/Conversion/apng"
+	url = "https://gist.github.com/89bc19cb8af8d62d46f43760a74f2acb"
+[submodule "Java/Conversion/bmp"]
+	path = "Java/Conversion/bmp"
+	url = "https://gist.github.com/b5f2fbf9e4a8a5aa6094ef695a2f7e2a"
+[submodule "Java/Conversion/cdr"]
+	path = "Java/Conversion/cdr"
+	url = "https://gist.github.com/258265e12d6571958acf2caddae154eb"
+[submodule "Java/Conversion/cmx"]
+	path = "Java/Conversion/cmx"
+	url = "https://gist.github.com/7ef920c4cc048a875bd2453ab1195d0e"
+[submodule "Java/Conversion/dib"]
+	path = "Java/Conversion/dib"
+	url = "https://gist.github.com/d8e57e37eefca8b37a77109c1b40631b"
+[submodule "Java/Conversion/dicom"]
+	path = "Java/Conversion/dicom"
+	url = "https://gist.github.com/25eac852f2514877f6fbde811a0d0ece"
+[submodule "Java/Conversion/djvu"]
+	path = "Java/Conversion/djvu"
+	url = "https://gist.github.com/5a1855c9d83d9186b0f015c1709e5c4c"
+[submodule "Java/Conversion/dng"]
+	path = "Java/Conversion/dng"
+	url = "https://gist.github.com/c98162de21b2c201e4eaabb5180ddb62"
+[submodule "Java/Conversion/emf"]
+	path = "Java/Conversion/emf"
+	url = "https://gist.github.com/7573984073baac0442285e30eec8474a"
+[submodule "Java/Conversion/emz"]
+	path = "Java/Conversion/emz"
+	url = "https://gist.github.com/fa7aea6cdf57cdfb057b80a344c3ea2c"
+[submodule "Java/Conversion/eps"]
+	path = "Java/Conversion/eps"
+	url = "https://gist.github.com/70a96dd3cc00978644766472a85df2a5"
+[submodule "Java/Conversion/gif"]
+	path = "Java/Conversion/gif"
+	url = "https://gist.github.com/5c0b1ad0efc459734a6d44da8a897a80"
+[submodule "Java/Conversion/j2k"]
+	path = "Java/Conversion/j2k"
+	url = "https://gist.github.com/ceaefc1656df207ad91467516e63f287"
+[submodule "Java/Conversion/jp2"]
+	path = "Java/Conversion/jp2"
+	url = "https://gist.github.com/2393ca3d869b79afc41da64fad558168"
+[submodule "Java/Conversion/jpeg2000"]
+	path = "Java/Conversion/jpeg2000"
+	url = "https://gist.github.com/6351dfd0d434bb9daea391815ede714a"
+[submodule "Java/Conversion/jpg"]
+	path = "Java/Conversion/jpg"
+	url = "https://gist.github.com/4779d9b203731791a09f13570d6dbaef"
+[submodule "Java/Conversion/odg"]
+	path = "Java/Conversion/odg"
+	url = "https://gist.github.com/c3da84df2c05d47d107da8b9c31f2cf0"
+[submodule "Java/Conversion/otg"]
+	path = "Java/Conversion/otg"
+	url = "https://gist.github.com/d3a4aa97e7fb26506ce4d123c6c3cf29"
+[submodule "Java/Conversion/png"]
+	path = "Java/Conversion/png"
+	url = "https://gist.github.com/a3e9a29e02d684daee703a614963c1d6"
+[submodule "Java/Conversion/svg"]
+	path = "Java/Conversion/svg"
+	url = "https://gist.github.com/da84aef5e873f7e0e2f77889a3228dd5"
+[submodule "Java/Conversion/svgz"]
+	path = "Java/Conversion/svgz"
+	url = "https://gist.github.com/3bb6a51406052d1b4ca609b497469b68"
+[submodule "Java/Conversion/tga"]
+	path = "Java/Conversion/tga"
+	url = "https://gist.github.com/4348ea20efe85236fb631ec9a4fcb1d6"
+[submodule "Java/Conversion/tiff"]
+	path = "Java/Conversion/tiff"
+	url = "https://gist.github.com/3d47ffb21a520c5ff9be971b72b0a9b9"
+[submodule "Java/Conversion/webp"]
+	path = "Java/Conversion/webp"
+	url = "https://gist.github.com/b5ae14ac978fa1304901a8c7f49b5137"
+[submodule "Java/Conversion/wmf"]
+	path = "Java/Conversion/wmf"
+	url = "https://gist.github.com/b47fe38ff3b1ec670e1452cbd327b627"
+[submodule "Java/Conversion/wmz"]
+	path = "Java/Conversion/wmz"
+	url = "https://gist.github.com/76d27d5023ad437bb805109869e11cc2"
 [submodule "Java/Merge"]
 	path = "Java/Merge"
 	url = "https://gist.github.com/d8c86be526ab92ccc5eaafd1eaa1320b"
 [submodule "Java/Resize"]
 	path = "Java/Resize"
 	url = "https://gist.github.com/c23856d7fdf11ecc5bcf73a03ad0a44d"
+[submodule "Java/Watermark"]
+	path = "Java/Watermark"
+	url = "https://gist.github.com/1ac443cce5aab9d32ad152570c716c05"
 [submodule "Net/Conversion/apng"]
 	path = "Net/Conversion/apng"
 	url = "https://gist.github.com/e6756e10d2c1e793c74b42a091958ece"
