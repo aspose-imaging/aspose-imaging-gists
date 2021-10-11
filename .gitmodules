@@ -157,6 +157,9 @@
 [submodule "Net/Conversion/wmz"]
 	path = "Net/Conversion/wmz"
 	url = "https://gist.github.com/69c0f75a96aeef906238823f6e345845"
+[submodule "Net/Convert"]
+	path = "Net/Convert"
+	url = "https://gist.github.com/4f45746500932351190aa24726cc4544"
 [submodule "Net/CROP"]
 	path = "Net/CROP"
 	url = "https://gist.github.com/542ef8811ecf66dac9f7830226671e37"
