@@ -76,10 +76,7 @@
 [submodule "Java/Conversion/wmz"]
 	path = "Java/Conversion/wmz"
 	url = "https://gist.github.com/76d27d5023ad437bb805109869e11cc2"
-[submodule "Java/CROP"]
-	path = "Java/CROP"
-	url = "https://gist.github.com/c35e6fbf62572d57fc2022ccc8ba0253"
-	[submodule "Java/Crop"]
+[submodule "Java/Crop"]
 	path = "Java/Crop"
 	url = "https://gist.github.com/c35e6fbf62572d57fc2022ccc8ba0253"
 [submodule "Java/Merge"]
