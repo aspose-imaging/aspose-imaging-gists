@@ -1,6 +1,6 @@
 [submodule "Java/Conversion/apng"]
 	path = "Java/Conversion/apng"
-	url = "https://gist.github.com/c35e6fbf62572d57fc2022ccc8ba0253"
+	url = "https://gist.github.com/07bd18a1af2633c99a708341d84b5ad2"
 [submodule "Java/Conversion/bmp"]
 	path = "Java/Conversion/bmp"
 	url = "https://gist.github.com/b5f2fbf9e4a8a5aa6094ef695a2f7e2a"
