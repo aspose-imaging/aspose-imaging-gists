@@ -172,15 +172,15 @@
 [submodule "Net/Merge"]
 	path = "Net/Merge"
 	url = "https://gist.github.com/c3b1f39eaf550446e244e071b29d5191"
-[submodule "Net/RemoveBackground"]
-	path = "Net/RemoveBackground"
-	url = "https://gist.github.com/7a52b06992ac437d40fae01e890a9f7a"
 [submodule "Net/Resize"]
 	path = "Net/Resize"
 	url = "https://gist.github.com/86c29f2c35c7c19a0ae65cea371ab3e5"
 [submodule "Net/Watermark"]
 	path = "Net/Watermark"
 	url = "https://gist.github.com/f63c201f51d5673401fc0d32a6e1c4b1"
+[submodule "Net/RemoveBackground"]
+	path = "Net/RemoveBackground"
+	url = "https://gist.github.com/7a52b06992ac437d40fae01e890a9f7a"
 [submodule "NET/RemoveBackground"]
 	path = "NET/RemoveBackground"
 	url = "https://gist.github.com/07bd18a1af2633c99a708341d84b5ad2"
