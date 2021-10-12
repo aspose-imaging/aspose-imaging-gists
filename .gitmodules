@@ -79,6 +79,9 @@
 [submodule "Java/CROP"]
 	path = "Java/CROP"
 	url = "https://gist.github.com/c35e6fbf62572d57fc2022ccc8ba0253"
+	[submodule "Java/Crop"]
+	path = "Java/Crop"
+	url = "https://gist.github.com/c35e6fbf62572d57fc2022ccc8ba0253"
 [submodule "Java/Merge"]
 	path = "Java/Merge"
 	url = "https://gist.github.com/d8c86be526ab92ccc5eaafd1eaa1320b"
@@ -181,6 +184,3 @@
 [submodule "Net/Watermark"]
 	path = "Net/Watermark"
 	url = "https://gist.github.com/f63c201f51d5673401fc0d32a6e1c4b1"
-[submodule "NET/RemoveBackground"]
-	path = "NET/RemoveBackground"
-	url = "https://gist.github.com/07bd18a1af2633c99a708341d84b5ad2"
