@@ -175,3 +175,6 @@
 [submodule "Net/Watermark"]
 	path = "Net/Watermark"
 	url = "https://gist.github.com/f63c201f51d5673401fc0d32a6e1c4b1"
+[submodule "Java/CROP"]
+	path = "Java/CROP"
+	url = "https://gist.github.com/c35e6fbf62572d57fc2022ccc8ba0253"
