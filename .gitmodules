@@ -88,6 +88,9 @@
 [submodule "Java/Watermark"]
 	path = "Java/Watermark"
 	url = "https://gist.github.com/1ac443cce5aab9d32ad152570c716c05"
+[submodule "Net/Compress"]
+	path = "Net/Compress"
+	url = "https://gist.github.com/1960f3cda06637ac4f750163b5fcbfdc"
 [submodule "Net/Conversion/apng"]
 	path = "Net/Conversion/apng"
 	url = "https://gist.github.com/e6756e10d2c1e793c74b42a091958ece"
