@@ -166,6 +166,12 @@
 [submodule "Net/CROP"]
 	path = "Net/CROP"
 	url = "https://gist.github.com/542ef8811ecf66dac9f7830226671e37"
+[submodule "Net/CustomFonts"]
+	path = "Net/CustomFonts"
+	url = "https://gist.github.com/de57973337b89375382bf6c74106c220"
+[submodule "Net/GetTiffOriginalOptions"]
+	path = "Net/GetTiffOriginalOptions"
+	url = "https://gist.github.com/2bb8d93135a90199b0eea4a5374d1ab2"
 [submodule "Net/HowTo/wmf-text-to-png"]
 	path = "Net/HowTo/wmf-text-to-png"
 	url = "https://gist.github.com/f000a778d6a34a61caa392e1804d1ff8"
