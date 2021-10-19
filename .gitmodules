@@ -1,3 +1,6 @@
+[submodule "Java/Compress"]
+	path = "Java/Compress"
+	url = "https://gist.github.com/524c3e3c3146a0eb00a23600f3990cff"
 [submodule "Java/Conversion/apng"]
 	path = "Java/Conversion/apng"
 	url = "https://gist.github.com/07bd18a1af2633c99a708341d84b5ad2"
