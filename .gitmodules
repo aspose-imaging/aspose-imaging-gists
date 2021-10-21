@@ -91,6 +91,15 @@
 [submodule "Java/Watermark"]
 	path = "Java/Watermark"
 	url = "https://gist.github.com/1ac443cce5aab9d32ad152570c716c05"
+[submodule "Net/Adjust"]
+	path = "Net/Adjust"
+	url = "https://gist.github.com/e0edfb82b59e3dfa4cbb620a45150480"
+[submodule "Net/Binarize"]
+	path = "Net/Binarize"
+	url = "https://gist.github.com/71c0516ed0eaff60994a716cfb062a6a"
+[submodule "Net/Cartoonify"]
+	path = "Net/Cartoonify"
+	url = "https://gist.github.com/06ef86978a9c043ccf04b5c6fd292b4c"
 [submodule "Net/Compress"]
 	path = "Net/Compress"
 	url = "https://gist.github.com/1960f3cda06637ac4f750163b5fcbfdc"
@@ -175,9 +184,18 @@
 [submodule "Net/CustomFonts"]
 	path = "Net/CustomFonts"
 	url = "https://gist.github.com/de57973337b89375382bf6c74106c220"
+[submodule "Net/Dithering"]
+	path = "Net/Dithering"
+	url = "https://gist.github.com/95e4108a2bc8cf2db6673c1225d3123a"
+[submodule "Net/Filters"]
+	path = "Net/Filters"
+	url = "https://gist.github.com/a1e5930122ddaf08d6960cb18782d55f"
 [submodule "Net/GetTiffOriginalOptions"]
 	path = "Net/GetTiffOriginalOptions"
 	url = "https://gist.github.com/2bb8d93135a90199b0eea4a5374d1ab2"
+[submodule "Net/Grayscale"]
+	path = "Net/Grayscale"
+	url = "https://gist.github.com/678e6251f851a355d0d61d0807168d62"
 [submodule "Net/HowTo/wmf-text-to-png"]
 	path = "Net/HowTo/wmf-text-to-png"
 	url = "https://gist.github.com/f000a778d6a34a61caa392e1804d1ff8"
