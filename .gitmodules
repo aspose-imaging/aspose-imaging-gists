@@ -1,6 +1,12 @@
 [submodule "Java/Adjust"]
 	path = "Java/Adjust"
 	url = "https://gist.github.com/822bcdd56fb7d62b05d9d0ad94cfba29"
+[submodule "Java/Binarize"]
+	path = "Java/Binarize"
+	url = "https://gist.github.com/daac19b481878f17e5e6caadd16bb490"
+[submodule "Java/Cartoonify"]
+	path = "Java/Cartoonify"
+	url = "https://gist.github.com/e8d356ec157169159aba5650730a227f"
 [submodule "Java/Compress"]
 	path = "Java/Compress"
 	url = "https://gist.github.com/524c3e3c3146a0eb00a23600f3990cff"
@@ -85,6 +91,15 @@
 [submodule "Java/CROP"]
 	path = "Java/CROP"
 	url = "https://gist.github.com/c35e6fbf62572d57fc2022ccc8ba0253"
+[submodule "Java/Dithering"]
+	path = "Java/Dithering"
+	url = "https://gist.github.com/5ddad8955ae51330e7a032a3d3b55c28"
+[submodule "Java/Filters"]
+	path = "Java/Filters"
+	url = "https://gist.github.com/62fbf25d357f9630abcc20d79d5947b2"
+[submodule "Java/Grayscale"]
+	path = "Java/Grayscale"
+	url = "https://gist.github.com/106a444035bb986e4e29211350868cbc"
 [submodule "Java/Merge"]
 	path = "Java/Merge"
 	url = "https://gist.github.com/d8c86be526ab92ccc5eaafd1eaa1320b"
