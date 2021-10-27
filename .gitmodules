@@ -1,3 +1,6 @@
+[submodule "Java/Adjust"]
+	path = "Java/Adjust"
+	url = "https://gist.github.com/822bcdd56fb7d62b05d9d0ad94cfba29"
 [submodule "Java/Compress"]
 	path = "Java/Compress"
 	url = "https://gist.github.com/524c3e3c3146a0eb00a23600f3990cff"
