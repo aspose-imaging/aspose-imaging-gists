@@ -232,3 +232,6 @@
 [submodule "Java/Convert"]
 	path = "Java/Convert"
 	url = "https://gist.github.com/74b9cf26c193cd103f69194c2bbe0984"
+[submodule "Java/RemoveBackground"]
+	path = "Java/RemoveBackground"
+	url = "https://gist.github.com/26a3ef7a80fab1d53054422a388087a2"
