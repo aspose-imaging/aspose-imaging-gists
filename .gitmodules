@@ -88,6 +88,9 @@
 [submodule "Java/Conversion/wmz"]
 	path = "Java/Conversion/wmz"
 	url = "https://gist.github.com/76d27d5023ad437bb805109869e11cc2"
+[submodule "Java/Convert"]
+	path = "Java/Convert"
+	url = "https://gist.github.com/74b9cf26c193cd103f69194c2bbe0984"
 [submodule "Java/CROP"]
 	path = "Java/CROP"
 	url = "https://gist.github.com/c35e6fbf62572d57fc2022ccc8ba0253"
@@ -103,6 +106,9 @@
 [submodule "Java/Merge"]
 	path = "Java/Merge"
 	url = "https://gist.github.com/d8c86be526ab92ccc5eaafd1eaa1320b"
+[submodule "Java/RemoveBackground"]
+	path = "Java/RemoveBackground"
+	url = "https://gist.github.com/26a3ef7a80fab1d53054422a388087a2"
 [submodule "Java/Resize"]
 	path = "Java/Resize"
 	url = "https://gist.github.com/c23856d7fdf11ecc5bcf73a03ad0a44d"
@@ -229,9 +235,3 @@
 [submodule "Net/Watermark"]
 	path = "Net/Watermark"
 	url = "https://gist.github.com/f63c201f51d5673401fc0d32a6e1c4b1"
-[submodule "Java/Convert"]
-	path = "Java/Convert"
-	url = "https://gist.github.com/74b9cf26c193cd103f69194c2bbe0984"
-[submodule "Java/RemoveBackground"]
-	path = "Java/RemoveBackground"
-	url = "https://gist.github.com/26a3ef7a80fab1d53054422a388087a2"
