@@ -229,3 +229,6 @@
 [submodule "Net/Watermark"]
 	path = "Net/Watermark"
 	url = "https://gist.github.com/f63c201f51d5673401fc0d32a6e1c4b1"
+[submodule "Java/Convert"]
+	path = "Java/Convert"
+	url = "https://gist.github.com/74b9cf26c193cd103f69194c2bbe0984"
