@@ -238,6 +238,9 @@
 [submodule "Net/Resize"]
 	path = "Net/Resize"
 	url = "https://gist.github.com/86c29f2c35c7c19a0ae65cea371ab3e5"
+[submodule "Net/SaveFileExtensionAware"]
+	path = "Net/SaveFileExtensionAware"
+	url = "https://gist.github.com/f4a2faa9c7d3a77f599173aee0927a3b"
 [submodule "Net/Watermark"]
 	path = "Net/Watermark"
 	url = "https://gist.github.com/f63c201f51d5673401fc0d32a6e1c4b1"
