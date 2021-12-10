@@ -223,6 +223,9 @@
 [submodule "Net/Grayscale"]
 	path = "Net/Grayscale"
 	url = "https://gist.github.com/678e6251f851a355d0d61d0807168d62"
+[submodule "Net/HowTo/save-transparent-image"]
+	path = "Net/HowTo/save-transparent-image"
+	url = "https://gist.github.com/36c4ea3618e1a05a473bb513030fac6e"
 [submodule "Net/HowTo/wmf-text-to-png"]
 	path = "Net/HowTo/wmf-text-to-png"
 	url = "https://gist.github.com/f000a778d6a34a61caa392e1804d1ff8"
