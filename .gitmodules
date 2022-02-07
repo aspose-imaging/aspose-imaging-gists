@@ -94,18 +94,27 @@
 [submodule "Java/CROP"]
 	path = "Java/CROP"
 	url = "https://gist.github.com/c35e6fbf62572d57fc2022ccc8ba0253"
+[submodule "Java/CustomFonts"]
+	path = "Java/CustomFonts"
+	url = "https://gist.github.com/dc068b12ee9331d520949a552abc3e47"
 [submodule "Java/Dithering"]
 	path = "Java/Dithering"
 	url = "https://gist.github.com/5ddad8955ae51330e7a032a3d3b55c28"
 [submodule "Java/Filters"]
 	path = "Java/Filters"
 	url = "https://gist.github.com/62fbf25d357f9630abcc20d79d5947b2"
+[submodule "Java/GetTiffOriginalOptions"]
+	path = "Java/GetTiffOriginalOptions"
+	url = "https://gist.github.com/4be990d0858a585f1b25f143573d5d20"
 [submodule "Java/Grayscale"]
 	path = "Java/Grayscale"
 	url = "https://gist.github.com/106a444035bb986e4e29211350868cbc"
 [submodule "Java/Intro"]
 	path = "Java/Intro"
 	url = "https://gist.github.com/31dbd78f64c3a37b9a8ab10d33885214"
+[submodule "Java/Licensing"]
+	path = "Java/Licensing"
+	url = "https://gist.github.com/9656a0a7eedb4b07ab8a2922e161f63d"
 [submodule "Java/Merge"]
 	path = "Java/Merge"
 	url = "https://gist.github.com/d8c86be526ab92ccc5eaafd1eaa1320b"
@@ -115,6 +124,9 @@
 [submodule "Java/Resize"]
 	path = "Java/Resize"
 	url = "https://gist.github.com/c23856d7fdf11ecc5bcf73a03ad0a44d"
+[submodule "Java/SaveFileExtensionAware"]
+	path = "Java/SaveFileExtensionAware"
+	url = "https://gist.github.com/39471f525d4b5ea8567ac5bb7bbc8457"
 [submodule "Java/Watermark"]
 	path = "Java/Watermark"
 	url = "https://gist.github.com/1ac443cce5aab9d32ad152570c716c05"
