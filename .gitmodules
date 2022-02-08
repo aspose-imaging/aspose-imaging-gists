@@ -109,6 +109,15 @@
 [submodule "Java/Grayscale"]
 	path = "Java/Grayscale"
 	url = "https://gist.github.com/106a444035bb986e4e29211350868cbc"
+[submodule "Java/HowTo/draw-text-using-graphics"]
+	path = "Java/HowTo/draw-text-using-graphics"
+	url = "https://gist.github.com/c8d164b9aaf58702d431710fe0181ced"
+[submodule "Java/HowTo/save-transparent-image"]
+	path = "Java/HowTo/save-transparent-image"
+	url = "https://gist.github.com/2ce396b4f1417ab0463e18f51cc6e63d"
+[submodule "Java/HowTo/wmf-text-to-png"]
+	path = "Java/HowTo/wmf-text-to-png"
+	url = "https://gist.github.com/297d9b641b096caa0706ce08da014dae"
 [submodule "Java/Intro"]
 	path = "Java/Intro"
 	url = "https://gist.github.com/31dbd78f64c3a37b9a8ab10d33885214"
