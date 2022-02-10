@@ -103,27 +103,12 @@
 [submodule "Java/Filters"]
 	path = "Java/Filters"
 	url = "https://gist.github.com/62fbf25d357f9630abcc20d79d5947b2"
-[submodule "Java/GetTiffOriginalOptions"]
-	path = "Java/GetTiffOriginalOptions"
-	url = "https://gist.github.com/4be990d0858a585f1b25f143573d5d20"
 [submodule "Java/Grayscale"]
 	path = "Java/Grayscale"
 	url = "https://gist.github.com/106a444035bb986e4e29211350868cbc"
-[submodule "Java/HowTo/draw-text-using-graphics"]
-	path = "Java/HowTo/draw-text-using-graphics"
-	url = "https://gist.github.com/c8d164b9aaf58702d431710fe0181ced"
-[submodule "Java/HowTo/save-transparent-image"]
-	path = "Java/HowTo/save-transparent-image"
-	url = "https://gist.github.com/2ce396b4f1417ab0463e18f51cc6e63d"
-[submodule "Java/HowTo/wmf-text-to-png"]
-	path = "Java/HowTo/wmf-text-to-png"
-	url = "https://gist.github.com/297d9b641b096caa0706ce08da014dae"
 [submodule "Java/Intro"]
 	path = "Java/Intro"
 	url = "https://gist.github.com/31dbd78f64c3a37b9a8ab10d33885214"
-[submodule "Java/Licensing"]
-	path = "Java/Licensing"
-	url = "https://gist.github.com/9656a0a7eedb4b07ab8a2922e161f63d"
 [submodule "Java/Merge"]
 	path = "Java/Merge"
 	url = "https://gist.github.com/d8c86be526ab92ccc5eaafd1eaa1320b"
@@ -133,9 +118,6 @@
 [submodule "Java/Resize"]
 	path = "Java/Resize"
 	url = "https://gist.github.com/c23856d7fdf11ecc5bcf73a03ad0a44d"
-[submodule "Java/SaveFileExtensionAware"]
-	path = "Java/SaveFileExtensionAware"
-	url = "https://gist.github.com/39471f525d4b5ea8567ac5bb7bbc8457"
 [submodule "Java/Watermark"]
 	path = "Java/Watermark"
 	url = "https://gist.github.com/1ac443cce5aab9d32ad152570c716c05"
@@ -244,21 +226,12 @@
 [submodule "Net/Grayscale"]
 	path = "Net/Grayscale"
 	url = "https://gist.github.com/678e6251f851a355d0d61d0807168d62"
-[submodule "Net/HowTo/draw-text-using-graphics"]
-	path = "Net/HowTo/draw-text-using-graphics"
-	url = "https://gist.github.com/34906966ea6a4a690c27e3ae30802928"
-[submodule "Net/HowTo/save-transparent-image"]
-	path = "Net/HowTo/save-transparent-image"
-	url = "https://gist.github.com/36c4ea3618e1a05a473bb513030fac6e"
 [submodule "Net/HowTo/wmf-text-to-png"]
 	path = "Net/HowTo/wmf-text-to-png"
 	url = "https://gist.github.com/f000a778d6a34a61caa392e1804d1ff8"
 [submodule "Net/Intro"]
 	path = "Net/Intro"
 	url = "https://gist.github.com/38d4932ed13a06d560174ea9a85ea4cf"
-[submodule "Net/Licensing"]
-	path = "Net/Licensing"
-	url = "https://gist.github.com/0881be76ce67d68226308289da9b657c"
 [submodule "Net/Merge"]
 	path = "Net/Merge"
 	url = "https://gist.github.com/c3b1f39eaf550446e244e071b29d5191"
@@ -268,9 +241,36 @@
 [submodule "Net/Resize"]
 	path = "Net/Resize"
 	url = "https://gist.github.com/86c29f2c35c7c19a0ae65cea371ab3e5"
-[submodule "Net/SaveFileExtensionAware"]
-	path = "Net/SaveFileExtensionAware"
-	url = "https://gist.github.com/f4a2faa9c7d3a77f599173aee0927a3b"
 [submodule "Net/Watermark"]
 	path = "Net/Watermark"
 	url = "https://gist.github.com/f63c201f51d5673401fc0d32a6e1c4b1"
+[submodule "Java/GetTiffOriginalOptions"]
+	path = "Java/GetTiffOriginalOptions"
+	url = "https://gist.github.com/4be990d0858a585f1b25f143573d5d20"
+[submodule "Java/HowTo/draw-text-using-graphics"]
+	path = "Java/HowTo/draw-text-using-graphics"
+	url = "https://gist.github.com/c8d164b9aaf58702d431710fe0181ced"
+[submodule "Java/HowTo/save-transparent-image"]
+	path = "Java/HowTo/save-transparent-image"
+	url = "https://gist.github.com/2ce396b4f1417ab0463e18f51cc6e63d"
+[submodule "Java/HowTo/wmf-text-to-png"]
+	path = "Java/HowTo/wmf-text-to-png"
+	url = "https://gist.github.com/297d9b641b096caa0706ce08da014dae"
+[submodule "Java/Licensing"]
+	path = "Java/Licensing"
+	url = "https://gist.github.com/9656a0a7eedb4b07ab8a2922e161f63d"
+[submodule "Java/SaveFileExtensionAware"]
+	path = "Java/SaveFileExtensionAware"
+	url = "https://gist.github.com/39471f525d4b5ea8567ac5bb7bbc8457"
+[submodule "Net/HowTo/draw-text-using-graphics"]
+	path = "Net/HowTo/draw-text-using-graphics"
+	url = "https://gist.github.com/34906966ea6a4a690c27e3ae30802928"
+[submodule "Net/HowTo/save-transparent-image"]
+	path = "Net/HowTo/save-transparent-image"
+	url = "https://gist.github.com/36c4ea3618e1a05a473bb513030fac6e"
+[submodule "Net/Licensing"]
+	path = "Net/Licensing"
+	url = "https://gist.github.com/0881be76ce67d68226308289da9b657c"
+[submodule "Net/SaveFileExtensionAware"]
+	path = "Net/SaveFileExtensionAware"
+	url = "https://gist.github.com/f4a2faa9c7d3a77f599173aee0927a3b"
