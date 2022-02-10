@@ -252,7 +252,7 @@
 	url = "https://gist.github.com/c8d164b9aaf58702d431710fe0181ced"
 [submodule "Java/HowTo/save-transparent-image"]
 	path = "Java/HowTo/save-transparent-image"
-	url = "https://gist.github.com/2ce396b4f1417ab0463e18f51cc6e63d"
+	url = "git@gist.github.com:2ce396b4f1417ab0463e18f51cc6e63d.git"
 [submodule "Java/HowTo/wmf-text-to-png"]
 	path = "Java/HowTo/wmf-text-to-png"
 	url = "https://gist.github.com/297d9b641b096caa0706ce08da014dae"
