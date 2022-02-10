@@ -222,7 +222,7 @@
 	url = "https://gist.github.com/a1e5930122ddaf08d6960cb18782d55f"
 [submodule "Net/GetTiffOriginalOptions"]
 	path = "Net/GetTiffOriginalOptions"
-	url = "https://gist.github.com/2bb8d93135a90199b0eea4a5374d1ab2"
+	url = "git@gist.github.com:2bb8d93135a90199b0eea4a5374d1ab2.git"
 [submodule "Net/Grayscale"]
 	path = "Net/Grayscale"
 	url = "https://gist.github.com/678e6251f851a355d0d61d0807168d62"
