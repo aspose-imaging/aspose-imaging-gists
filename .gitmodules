@@ -222,7 +222,7 @@
 	url = "https://gist.github.com/a1e5930122ddaf08d6960cb18782d55f"
 [submodule "Net/GetTiffOriginalOptions"]
 	path = "Net/GetTiffOriginalOptions"
-	url = "git@gist.github.com:2bb8d93135a90199b0eea4a5374d1ab2.git"
+	url = "https://gist.github.com/2bb8d93135a90199b0eea4a5374d1ab2"
 [submodule "Net/Grayscale"]
 	path = "Net/Grayscale"
 	url = "https://gist.github.com/678e6251f851a355d0d61d0807168d62"
@@ -252,7 +252,7 @@
 	url = "https://gist.github.com/c8d164b9aaf58702d431710fe0181ced"
 [submodule "Java/HowTo/save-transparent-image"]
 	path = "Java/HowTo/save-transparent-image"
-	url = "git@gist.github.com:2ce396b4f1417ab0463e18f51cc6e63d.git"
+	url = "https://gist.github.com/2ce396b4f1417ab0463e18f51cc6e63d"
 [submodule "Java/HowTo/wmf-text-to-png"]
 	path = "Java/HowTo/wmf-text-to-png"
 	url = "https://gist.github.com/297d9b641b096caa0706ce08da014dae"
