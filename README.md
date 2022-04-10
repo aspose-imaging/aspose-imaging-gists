@@ -1,2 +1,2 @@
 # aspose-imaging-gists
-Repository or gists references
+Repository for gists references
