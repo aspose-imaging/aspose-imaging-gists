@@ -142,6 +142,9 @@
 [submodule "Java/Watermark"]
 	path = "Java/Watermark"
 	url = "https://gist.github.com/1ac443cce5aab9d32ad152570c716c05"
+[submodule "Net/AddXmpTagsToDicomImage"]
+	path = "Net/AddXmpTagsToDicomImage"
+	url = "https://gist.github.com/5c1ecbaf9a07481abfb732ea6c41ae0f"
 [submodule "Net/Adjust"]
 	path = "Net/Adjust"
 	url = "https://gist.github.com/e0edfb82b59e3dfa4cbb620a45150480"
