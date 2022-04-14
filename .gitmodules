@@ -1,3 +1,6 @@
+[submodule "Java/AddXmpTagsToDicomImage"]
+	path = "Java/AddXmpTagsToDicomImage"
+	url = "https://gist.github.com/9976b96470633bff33542ae9f42431f9"
 [submodule "Java/Adjust"]
 	path = "Java/Adjust"
 	url = "https://gist.github.com/822bcdd56fb7d62b05d9d0ad94cfba29"
