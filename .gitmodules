@@ -259,6 +259,9 @@
 [submodule "Net/HowTo/draw-text-using-graphics"]
 	path = "Net/HowTo/draw-text-using-graphics"
 	url = "https://gist.github.com/34906966ea6a4a690c27e3ae30802928"
+[submodule "Net/HowTo/look-like-scanned"]
+	path = "Net/HowTo/look-like-scanned"
+	url = "https://gist.github.com/a9a9e3d71675a0559d3f0c64a468026d"
 [submodule "Net/HowTo/save-transparent-image"]
 	path = "Net/HowTo/save-transparent-image"
 	url = "https://gist.github.com/36c4ea3618e1a05a473bb513030fac6e"
