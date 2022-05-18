@@ -103,6 +103,9 @@
 [submodule "Java/Dithering"]
 	path = "Java/Dithering"
 	url = "https://gist.github.com/5ddad8955ae51330e7a032a3d3b55c28"
+[submodule "Java/ExtractRasterImagesEmbeddedInVector"]
+	path = "Java/ExtractRasterImagesEmbeddedInVector"
+	url = "https://gist.github.com/437789a8ec8c6604aafe2cad2fe88900"
 [submodule "Java/Filters"]
 	path = "Java/Filters"
 	url = "https://gist.github.com/62fbf25d357f9630abcc20d79d5947b2"
@@ -244,6 +247,9 @@
 [submodule "Net/Dithering"]
 	path = "Net/Dithering"
 	url = "https://gist.github.com/95e4108a2bc8cf2db6673c1225d3123a"
+[submodule "Net/ExtractRasterImagesEmbeddedInVector"]
+	path = "Net/ExtractRasterImagesEmbeddedInVector"
+	url = "https://gist.github.com/fdab3ef875b150a2c3b8f4275ad6eb00"
 [submodule "Net/Filters"]
 	path = "Net/Filters"
 	url = "https://gist.github.com/a1e5930122ddaf08d6960cb18782d55f"
