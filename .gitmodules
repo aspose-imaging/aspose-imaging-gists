@@ -121,6 +121,9 @@
 [submodule "Java/HowTo/draw-text-using-graphics"]
 	path = "Java/HowTo/draw-text-using-graphics"
 	url = "https://gist.github.com/c8d164b9aaf58702d431710fe0181ced"
+[submodule "Java/HowTo/look-like-scanned"]
+	path = "Java/HowTo/look-like-scanned"
+	url = "https://gist.github.com/ade5faeabffd1fe6d4b6bab53850897d"
 [submodule "Java/HowTo/save-transparent-image"]
 	path = "Java/HowTo/save-transparent-image"
 	url = "https://gist.github.com/2ce396b4f1417ab0463e18f51cc6e63d"
