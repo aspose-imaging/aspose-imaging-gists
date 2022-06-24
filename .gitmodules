@@ -289,6 +289,9 @@
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Webp Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Webp Images"
 	url = "https://gist.github.com/9dfc4228a06ca7c41eb79817dd3cad6c"
+[submodule "Net/Manipulate Different Image FileFormats/Manipulate Wmf Images"]
+	path = "Net/Manipulate Different Image FileFormats/Manipulate Wmf Images"
+	url = "https://gist.github.com/51147f04db3ad86597083c291250b890"
 [submodule "Net/Merge"]
 	path = "Net/Merge"
 	url = "https://gist.github.com/c3b1f39eaf550446e244e071b29d5191"
