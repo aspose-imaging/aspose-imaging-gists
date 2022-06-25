@@ -283,6 +283,9 @@
 [submodule "Net/Licensing"]
 	path = "Net/Licensing"
 	url = "https://gist.github.com/0881be76ce67d68226308289da9b657c"
+[submodule "Net/Manipulate Different Image FileFormats/Manipulate Bmp Images"]
+	path = "Net/Manipulate Different Image FileFormats/Manipulate Bmp Images"
+	url = "https://gist.github.com/77eea2fa6129b23d80c4c0de9f13f2f6"
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Png Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Png Images"
 	url = "https://gist.github.com/0dc6787183a1823ca0774be84c7b7aa2"
