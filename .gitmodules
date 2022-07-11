@@ -145,9 +145,6 @@
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Svg Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Svg Images"
 	url = "https://gist.github.com/8f3cb6e37dd2b28717779dd41a767735"
-[submodule "Java/Manipulate Different Image FileFormats/Manipulate Tiff Images"]
-	path = "Java/Manipulate Different Image FileFormats/Manipulate Tiff Images"
-	url = "https://gist.github.com/a4d291863dc9ba53b888c52610950526"
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Webp Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Webp Images"
 	url = "https://gist.github.com/dc955f6aaa5b79847e6ac7e4e63aaba5"
@@ -334,3 +331,6 @@
 [submodule "Net/Watermark"]
 	path = "Net/Watermark"
 	url = "https://gist.github.com/f63c201f51d5673401fc0d32a6e1c4b1"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Tiff Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Tiff Images"
+	url = "https://gist.github.com/a4d291863dc9ba53b888c52610950526"
