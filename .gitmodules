@@ -295,6 +295,9 @@
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Dicom Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Dicom Images"
 	url = "https://gist.github.com/3c2dfa23b8e1299cf8d56744e2168bae"
+[submodule "Net/Manipulate Different Image FileFormats/Manipulate Djvu Images"]
+	path = "Net/Manipulate Different Image FileFormats/Manipulate Djvu Images"
+	url = "https://gist.github.com/21cfa88ecb1e731ff1fb4c0049d2cc39"
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Dxf Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Dxf Images"
 	url = "https://gist.github.com/a9fd4a3333900f4f86ea1667814ff421"
