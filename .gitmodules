@@ -289,6 +289,9 @@
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Cmx Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Cmx Images"
 	url = "https://gist.github.com/cd76b7203ae8c34ff5b9bdce04ecad19"
+[submodule "Net/Manipulate Different Image FileFormats/Manipulate Dxf Images"]
+	path = "Net/Manipulate Different Image FileFormats/Manipulate Dxf Images"
+	url = "https://gist.github.com/a9fd4a3333900f4f86ea1667814ff421"
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Png Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Png Images"
 	url = "https://gist.github.com/0dc6787183a1823ca0774be84c7b7aa2"
