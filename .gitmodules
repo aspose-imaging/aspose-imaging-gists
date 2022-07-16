@@ -313,6 +313,9 @@
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Svg Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Svg Images"
 	url = "https://gist.github.com/af7872e5b2559e537d3bf085a6d15547"
+[submodule "Net/Manipulate Different Image FileFormats/Manipulate Tga Images"]
+	path = "Net/Manipulate Different Image FileFormats/Manipulate Tga Images"
+	url = "https://gist.github.com/d26dd3b9335d3a795ddfed8e8a2c4eb0"
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Tiff Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Tiff Images"
 	url = "https://gist.github.com/3fd62316b7516c54cdec5700f6785166"
