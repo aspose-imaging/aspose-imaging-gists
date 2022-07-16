@@ -304,6 +304,9 @@
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Dxf Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Dxf Images"
 	url = "https://gist.github.com/a9fd4a3333900f4f86ea1667814ff421"
+[submodule "Net/Manipulate Different Image FileFormats/Manipulate Emf Images"]
+	path = "Net/Manipulate Different Image FileFormats/Manipulate Emf Images"
+	url = "https://gist.github.com/901e9cb1e784cc1cdc3d9550a1e74136"
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Png Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Png Images"
 	url = "https://gist.github.com/0dc6787183a1823ca0774be84c7b7aa2"
