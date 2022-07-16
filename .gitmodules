@@ -310,9 +310,6 @@
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Fodg Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Fodg Images"
 	url = "https://gist.github.com/d865fbe09f37c7898c25ef43acbd2190"
-[submodule "Net/Manipulate Different Image FileFormats/Manipulate Gif Images"]
-	path = "Net/Manipulate Different Image FileFormats/Manipulate Gif Images"
-	url = "https://gist.github.com/54045f2fd5dce532d3571cf3924a9c0e"
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Png Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Png Images"
 	url = "https://gist.github.com/0dc6787183a1823ca0774be84c7b7aa2"
@@ -349,6 +346,9 @@
 [submodule "Net/Watermark"]
 	path = "Net/Watermark"
 	url = "https://gist.github.com/f63c201f51d5673401fc0d32a6e1c4b1"
+[submodule "Net/Manipulate Different Image FileFormats/Manipulate Gif Images"]
+	path = "Net/Manipulate Different Image FileFormats/Manipulate Gif Images"
+	url = "https://gist.github.com/54045f2fd5dce532d3571cf3924a9c0e"
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Bmp Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Bmp Images"
 	url = "https://gist.github.com/5f0a945174e6ac022f75e1d66dc565f5"
