@@ -307,6 +307,9 @@
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Emf Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Emf Images"
 	url = "https://gist.github.com/901e9cb1e784cc1cdc3d9550a1e74136"
+[submodule "Net/Manipulate Different Image FileFormats/Manipulate Fodg Images"]
+	path = "Net/Manipulate Different Image FileFormats/Manipulate Fodg Images"
+	url = "https://gist.github.com/d865fbe09f37c7898c25ef43acbd2190"
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Png Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Png Images"
 	url = "https://gist.github.com/0dc6787183a1823ca0774be84c7b7aa2"
