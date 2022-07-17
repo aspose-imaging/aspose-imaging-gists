@@ -316,6 +316,9 @@
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Html5 Canvas Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Html5 Canvas Images"
 	url = "https://gist.github.com/cf317aef0a1b7cc50649d47571c4dcef"
+[submodule "Net/Manipulate Different Image FileFormats/Manipulate Jpeg Images"]
+	path = "Net/Manipulate Different Image FileFormats/Manipulate Jpeg Images"
+	url = "https://gist.github.com/25b2f6f3e225af0f30fca33cff8a14b8"
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Jpeg2000 Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Jpeg2000 Images"
 	url = "https://gist.github.com/7cd3221df77fcd5bab67715395725283"
