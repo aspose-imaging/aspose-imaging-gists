@@ -322,6 +322,9 @@
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Jpeg2000 Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Jpeg2000 Images"
 	url = "https://gist.github.com/7cd3221df77fcd5bab67715395725283"
+[submodule "Net/Manipulate Different Image FileFormats/Manipulate Metafiles"]
+	path = "Net/Manipulate Different Image FileFormats/Manipulate Metafiles"
+	url = "https://gist.github.com/259209d85300ad76cd3f0711259dfe12"
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Png Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Png Images"
 	url = "https://gist.github.com/0dc6787183a1823ca0774be84c7b7aa2"
