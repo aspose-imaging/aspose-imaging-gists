@@ -370,6 +370,9 @@
 [submodule "Net/Working With Drawing Images/Drawing Images Using Graphics Path"]
 	path = "Net/Working With Drawing Images/Drawing Images Using Graphics Path"
 	url = "https://gist.github.com/8b7ada69bad4dc49dac0b9f4f5cc8329"
+[submodule "Net/Working With Drawing Images/Drawing raster images on vector images"]
+	path = "Net/Working With Drawing Images/Drawing raster images on vector images"
+	url = "https://gist.github.com/931c58201140de140db38a456a248c61"
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Gif Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Gif Images"
 	url = "https://gist.github.com/54045f2fd5dce532d3571cf3924a9c0e"
