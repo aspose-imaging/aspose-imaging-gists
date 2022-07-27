@@ -346,6 +346,9 @@
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Wmf Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Wmf Images"
 	url = "https://gist.github.com/51147f04db3ad86597083c291250b890"
+[submodule "Net/Manipulate Images/Converting Images"]
+	path = "Net/Manipulate Images/Converting Images"
+	url = "https://gist.github.com/3a7e384cb6ba794fe0305714ca8c6050"
 [submodule "Net/Manipulate Images/Median and Weiner filters"]
 	path = "Net/Manipulate Images/Median and Weiner filters"
 	url = "https://gist.github.com/c03f82411d05cb85e2fb8be924e54f0b"
