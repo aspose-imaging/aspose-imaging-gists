@@ -370,6 +370,9 @@
 [submodule "Net/Manipulate Images/Convert cdr images"]
 	path = "Net/Manipulate Images/Convert cdr images"
 	url = "https://gist.github.com/43e80b715536820fe79def18f3263c61"
+[submodule "Net/Manipulate Images/Convert cmx images"]
+	path = "Net/Manipulate Images/Convert cmx images"
+	url = "https://gist.github.com/db5c3fb8186ae3eadf3a14e1a149c1f8"
 [submodule "Net/Manipulate Images/Convert eps images"]
 	path = "Net/Manipulate Images/Convert eps images"
 	url = "https://gist.github.com/26c59ccd53d0f51adc9260323ff84979"
