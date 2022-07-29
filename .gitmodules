@@ -136,6 +136,24 @@
 [submodule "Java/Licensing"]
 	path = "Java/Licensing"
 	url = "https://gist.github.com/9656a0a7eedb4b07ab8a2922e161f63d"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Bmp Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Bmp Images"
+	url = "https://gist.github.com/5f0a945174e6ac022f75e1d66dc565f5"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Png Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Png Images"
+	url = "https://gist.github.com/2fb66b57ca3aa7e52527f8864ed6fc2d"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Svg Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Svg Images"
+	url = "https://gist.github.com/8f3cb6e37dd2b28717779dd41a767735"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Tiff Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Tiff Images"
+	url = "https://gist.github.com/a4d291863dc9ba53b888c52610950526"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Webp Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Webp Images"
+	url = "https://gist.github.com/dc955f6aaa5b79847e6ac7e4e63aaba5"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Wmf Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Wmf Images"
+	url = "https://gist.github.com/bb4153abcd87e8ebfaf958e52caa24bf"
 [submodule "Java/Merge"]
 	path = "Java/Merge"
 	url = "https://gist.github.com/d8c86be526ab92ccc5eaafd1eaa1320b"
@@ -313,6 +331,9 @@
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Gif  Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Gif  Images"
 	url = "https://gist.github.com/d6c773908ee5add10ccb6acfad89c88e"
+[submodule "Net/Manipulate Different Image FileFormats/Manipulate Gif Images"]
+	path = "Net/Manipulate Different Image FileFormats/Manipulate Gif Images"
+	url = "https://gist.github.com/54045f2fd5dce532d3571cf3924a9c0e"
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Html5 Canvas Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Html5 Canvas Images"
 	url = "https://gist.github.com/cf317aef0a1b7cc50649d47571c4dcef"
@@ -349,9 +370,9 @@
 [submodule "Net/Manipulate Images/Convert Images"]
 	path = "Net/Manipulate Images/Convert Images"
 	url = "https://gist.github.com/af18de930d907bf22dec70737a9687f1"
-[submodule "Net/Manipulate Images/Converting Images"]
-	path = "Net/Manipulate Images/Converting Images"
-	url = "https://gist.github.com/3a7e384cb6ba794fe0305714ca8c6050"
+[submodule "Net/Manipulate Images/Convert-apng-images"]
+	path = "Net/Manipulate Images/Convert-apng-images"
+	url = "https://gist.github.com/b966ac0b45c3da7d2aa1e55d9448fe27"
 [submodule "Net/Manipulate Images/Median and Weiner filters"]
 	path = "Net/Manipulate Images/Median and Weiner filters"
 	url = "https://gist.github.com/c03f82411d05cb85e2fb8be924e54f0b"
@@ -388,30 +409,9 @@
 [submodule "Net/Working With Drawing Images/Drawing raster images on vector images"]
 	path = "Net/Working With Drawing Images/Drawing raster images on vector images"
 	url = "https://gist.github.com/931c58201140de140db38a456a248c61"
-[submodule "Net/Manipulate Images/Convert-apng-images"]
-	path = "Net/Manipulate Images/Convert-apng-images"
-	url = "https://gist.github.com/b966ac0b45c3da7d2aa1e55d9448fe27"
+[submodule "Net/Manipulate Images/Converting Images"]
+	path = "Net/Manipulate Images/Converting Images"
+	url = "https://gist.github.com/3a7e384cb6ba794fe0305714ca8c6050"
 [submodule "Net/Manipulate Images/Converting Images/Convert-apng-images"]
 	path = "Net/Manipulate Images/Converting Images/Convert-apng-images"
 	url = "https://gist.github.com/e657cd8b85fde3c54d5c165cc139f5e6"
-[submodule "Net/Manipulate Different Image FileFormats/Manipulate Gif Images"]
-	path = "Net/Manipulate Different Image FileFormats/Manipulate Gif Images"
-	url = "https://gist.github.com/54045f2fd5dce532d3571cf3924a9c0e"
-[submodule "Java/Manipulate Different Image FileFormats/Manipulate Bmp Images"]
-	path = "Java/Manipulate Different Image FileFormats/Manipulate Bmp Images"
-	url = "https://gist.github.com/5f0a945174e6ac022f75e1d66dc565f5"
-[submodule "Java/Manipulate Different Image FileFormats/Manipulate Png Images"]
-	path = "Java/Manipulate Different Image FileFormats/Manipulate Png Images"
-	url = "https://gist.github.com/2fb66b57ca3aa7e52527f8864ed6fc2d"
-[submodule "Java/Manipulate Different Image FileFormats/Manipulate Svg Images"]
-	path = "Java/Manipulate Different Image FileFormats/Manipulate Svg Images"
-	url = "https://gist.github.com/8f3cb6e37dd2b28717779dd41a767735"
-[submodule "Java/Manipulate Different Image FileFormats/Manipulate Webp Images"]
-	path = "Java/Manipulate Different Image FileFormats/Manipulate Webp Images"
-	url = "https://gist.github.com/dc955f6aaa5b79847e6ac7e4e63aaba5"
-[submodule "Java/Manipulate Different Image FileFormats/Manipulate Wmf Images"]
-	path = "Java/Manipulate Different Image FileFormats/Manipulate Wmf Images"
-	url = "https://gist.github.com/bb4153abcd87e8ebfaf958e52caa24bf"
-[submodule "Java/Manipulate Different Image FileFormats/Manipulate Tiff Images"]
-	path = "Java/Manipulate Different Image FileFormats/Manipulate Tiff Images"
-	url = "https://gist.github.com/a4d291863dc9ba53b888c52610950526"
