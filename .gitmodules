@@ -376,6 +376,9 @@
 [submodule "Net/Manipulate Images/Convert odg images"]
 	path = "Net/Manipulate Images/Convert odg images"
 	url = "https://gist.github.com/f94572150959245e3d72c9b487f02ab1"
+[submodule "Net/Manipulate Images/Convert webp images"]
+	path = "Net/Manipulate Images/Convert webp images"
+	url = "https://gist.github.com/fc3ef192284f58b7577b3f362a9f2d53"
 [submodule "Net/Manipulate Images/Convert-apng-images"]
 	path = "Net/Manipulate Images/Convert-apng-images"
 	url = "https://gist.github.com/b966ac0b45c3da7d2aa1e55d9448fe27"
