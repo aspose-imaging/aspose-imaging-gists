@@ -346,9 +346,9 @@
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Wmf Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Wmf Images"
 	url = "https://gist.github.com/51147f04db3ad86597083c291250b890"
-[submodule "Net/Manipulate Images/Convert-apng-images"]
-	path = "Net/Manipulate Images/Convert-apng-images"
-	url = "https://gist.github.com/b966ac0b45c3da7d2aa1e55d9448fe27"
+[submodule "Net/Manipulate Images/Convert Images"]
+	path = "Net/Manipulate Images/Convert Images"
+	url = "https://gist.github.com/af18de930d907bf22dec70737a9687f1"
 [submodule "Net/Manipulate Images/Converting Images"]
 	path = "Net/Manipulate Images/Converting Images"
 	url = "https://gist.github.com/3a7e384cb6ba794fe0305714ca8c6050"
@@ -388,6 +388,9 @@
 [submodule "Net/Working With Drawing Images/Drawing raster images on vector images"]
 	path = "Net/Working With Drawing Images/Drawing raster images on vector images"
 	url = "https://gist.github.com/931c58201140de140db38a456a248c61"
+[submodule "Net/Manipulate Images/Convert-apng-images"]
+	path = "Net/Manipulate Images/Convert-apng-images"
+	url = "https://gist.github.com/b966ac0b45c3da7d2aa1e55d9448fe27"
 [submodule "Net/Manipulate Images/Converting Images/Convert-apng-images"]
 	path = "Net/Manipulate Images/Converting Images/Convert-apng-images"
 	url = "https://gist.github.com/e657cd8b85fde3c54d5c165cc139f5e6"
