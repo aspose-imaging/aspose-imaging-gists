@@ -391,6 +391,9 @@
 [submodule "Net/Manipulate Images/Median and Weiner filters"]
 	path = "Net/Manipulate Images/Median and Weiner filters"
 	url = "https://gist.github.com/c03f82411d05cb85e2fb8be924e54f0b"
+[submodule "Net/Manipulate Images/Merge images"]
+	path = "Net/Manipulate Images/Merge images"
+	url = "https://gist.github.com/225f189c4ca6b4f2f3570fe2521a1491"
 [submodule "Net/Manipulate Images/Remove background from images"]
 	path = "Net/Manipulate Images/Remove background from images"
 	url = "https://gist.github.com/cd4fed97fcdfa3055fbffc65e5298664"
