@@ -373,6 +373,9 @@
 [submodule "Net/Manipulate Images/Convert cmx images"]
 	path = "Net/Manipulate Images/Convert cmx images"
 	url = "https://gist.github.com/db5c3fb8186ae3eadf3a14e1a149c1f8"
+[submodule "Net/Manipulate Images/Convert emf wmf images"]
+	path = "Net/Manipulate Images/Convert emf wmf images"
+	url = "https://gist.github.com/2b1437e4562792b4c8d8f6b679145c5e"
 [submodule "Net/Manipulate Images/Convert eps images"]
 	path = "Net/Manipulate Images/Convert eps images"
 	url = "https://gist.github.com/26c59ccd53d0f51adc9260323ff84979"
