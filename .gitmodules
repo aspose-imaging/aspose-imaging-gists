@@ -394,6 +394,9 @@
 [submodule "Net/Manipulate Images/Create,open and save images"]
 	path = "Net/Manipulate Images/Create,open and save images"
 	url = "https://gist.github.com/8e027cec9ce0f0531f9aa5940334e606"
+[submodule "Net/Manipulate Images/Crop,rotate and resize images"]
+	path = "Net/Manipulate Images/Crop,rotate and resize images"
+	url = "https://gist.github.com/7ee37a401e37790396ad9f4cde87d446"
 [submodule "Net/Manipulate Images/Median and Weiner filters"]
 	path = "Net/Manipulate Images/Median and Weiner filters"
 	url = "https://gist.github.com/c03f82411d05cb85e2fb8be924e54f0b"
