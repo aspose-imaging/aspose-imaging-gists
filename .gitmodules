@@ -406,6 +406,9 @@
 [submodule "Net/Manipulate Images/Merge images"]
 	path = "Net/Manipulate Images/Merge images"
 	url = "https://gist.github.com/225f189c4ca6b4f2f3570fe2521a1491"
+[submodule "Net/Manipulate Images/Modifying images"]
+	path = "Net/Manipulate Images/Modifying images"
+	url = "https://gist.github.com/cf3a972847f597d2a33de220c99437e2"
 [submodule "Net/Manipulate Images/Remove background from images"]
 	path = "Net/Manipulate Images/Remove background from images"
 	url = "https://gist.github.com/cd4fed97fcdfa3055fbffc65e5298664"
