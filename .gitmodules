@@ -415,6 +415,9 @@
 [submodule "Net/Manipulate Images/Setting properties on images"]
 	path = "Net/Manipulate Images/Setting properties on images"
 	url = "https://gist.github.com/5b177978ff4546b9470934d41c8976c9"
+[submodule "Net/Manipulate Images/Working with Multipage image formats"]
+	path = "Net/Manipulate Images/Working with Multipage image formats"
+	url = "https://gist.github.com/af09b6dfc586ad81f2bc7806eff52a20"
 [submodule "Net/Merge"]
 	path = "Net/Merge"
 	url = "https://gist.github.com/c3b1f39eaf550446e244e071b29d5191"
