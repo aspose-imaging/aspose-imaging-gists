@@ -445,6 +445,9 @@
 [submodule "Net/Showcases/Html5 Canvas"]
 	path = "Net/Showcases/Html5 Canvas"
 	url = "https://gist.github.com/3ff90ead4ad5e9ba3d89367e92d8ea5d"
+[submodule "Net/Showcases/Sequential export"]
+	path = "Net/Showcases/Sequential export"
+	url = "https://gist.github.com/a48a9f6a203d3eb9cc7ffb478288e71c"
 [submodule "Net/Watermark"]
 	path = "Net/Watermark"
 	url = "https://gist.github.com/f63c201f51d5673401fc0d32a6e1c4b1"
