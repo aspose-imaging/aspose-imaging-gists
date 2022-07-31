@@ -430,6 +430,18 @@
 [submodule "Net/SaveFileExtensionAware"]
 	path = "Net/SaveFileExtensionAware"
 	url = "https://gist.github.com/f4a2faa9c7d3a77f599173aee0927a3b"
+[submodule "Net/Showcases/Compressed vector formats"]
+	path = "Net/Showcases/Compressed vector formats"
+	url = "https://gist.github.com/82090eb06bf0445c2a14beba95f9b164"
+[submodule "Net/Showcases/Creating and manipulating apng animation"]
+	path = "Net/Showcases/Creating and manipulating apng animation"
+	url = "https://gist.github.com/4ab8278262e402b1733000d95166a93a"
+[submodule "Net/Showcases/Deskew"]
+	path = "Net/Showcases/Deskew"
+	url = "https://gist.github.com/1999773eb209d42353f484ce3c047fce"
+[submodule "Net/Showcases/Full frame gif support"]
+	path = "Net/Showcases/Full frame gif support"
+	url = "https://gist.github.com/bedaa6c6f25fb0a1eb35a7d757ad133a"
 [submodule "Net/Watermark"]
 	path = "Net/Watermark"
 	url = "https://gist.github.com/f63c201f51d5673401fc0d32a6e1c4b1"
