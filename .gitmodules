@@ -433,6 +433,9 @@
 [submodule "Net/Showcases/Compressed vector formats"]
 	path = "Net/Showcases/Compressed vector formats"
 	url = "https://gist.github.com/82090eb06bf0445c2a14beba95f9b164"
+[submodule "Net/Showcases/Convert eps image to different formats using postscript renderer"]
+	path = "Net/Showcases/Convert eps image to different formats using postscript renderer"
+	url = "https://gist.github.com/83255a90e45db8943228d6e30934745a"
 [submodule "Net/Showcases/Creating and manipulating apng animation"]
 	path = "Net/Showcases/Creating and manipulating apng animation"
 	url = "https://gist.github.com/4ab8278262e402b1733000d95166a93a"
