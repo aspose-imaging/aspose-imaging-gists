@@ -391,6 +391,9 @@
 [submodule "Net/Manipulate Images/Convert-apng-images"]
 	path = "Net/Manipulate Images/Convert-apng-images"
 	url = "https://gist.github.com/b966ac0b45c3da7d2aa1e55d9448fe27"
+[submodule "Net/Manipulate Images/Converting Images/Convert-apng-images"]
+	path = "Net/Manipulate Images/Converting Images/Convert-apng-images"
+	url = "https://gist.github.com/e657cd8b85fde3c54d5c165cc139f5e6"
 [submodule "Net/Manipulate Images/Create,open and save images"]
 	path = "Net/Manipulate Images/Create,open and save images"
 	url = "https://gist.github.com/8e027cec9ce0f0531f9aa5940334e606"
@@ -472,6 +475,3 @@
 [submodule "Net/Manipulate Images/Converting Images"]
 	path = "Net/Manipulate Images/Converting Images"
 	url = "https://gist.github.com/3a7e384cb6ba794fe0305714ca8c6050"
-[submodule "Net/Manipulate Images/Converting Images/Convert-apng-images"]
-	path = "Net/Manipulate Images/Converting Images/Convert-apng-images"
-	url = "https://gist.github.com/e657cd8b85fde3c54d5c165cc139f5e6"
