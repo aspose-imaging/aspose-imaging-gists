@@ -472,6 +472,3 @@
 [submodule "Net/Working With Drawing Images/Drawing raster images on vector images"]
 	path = "Net/Working With Drawing Images/Drawing raster images on vector images"
 	url = "https://gist.github.com/931c58201140de140db38a456a248c61"
-[submodule "Net/Manipulate Images/Converting Images"]
-	path = "Net/Manipulate Images/Converting Images"
-	url = "https://gist.github.com/3a7e384cb6ba794fe0305714ca8c6050"
