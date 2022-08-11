@@ -454,6 +454,9 @@
 [submodule "Net/Showcases/Sequential export"]
 	path = "Net/Showcases/Sequential export"
 	url = "https://gist.github.com/a48a9f6a203d3eb9cc7ffb478288e71c"
+[submodule "Net/Technical articles/Interesting features"]
+	path = "Net/Technical articles/Interesting features"
+	url = "https://gist.github.com/fe98652f3eac2dcb6eca9da8f31bff01"
 [submodule "Net/Technical articles/Watermark"]
 	path = "Net/Technical articles/Watermark"
 	url = "https://gist.github.com/089c2d464f35ca1060569bbeb2d353d7"
