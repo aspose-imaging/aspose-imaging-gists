@@ -280,15 +280,48 @@
 [submodule "Net/Grayscale"]
 	path = "Net/Grayscale"
 	url = "https://gist.github.com/678e6251f851a355d0d61d0807168d62"
+[submodule "Net/HowTo/access-and-change-rgb-values-of-pixels"]
+	path = "Net/HowTo/access-and-change-rgb-values-of-pixels"
+	url = "https://gist.github.com/7755ef7443481039435bbb58e3cab91a"
+[submodule "Net/HowTo/add-signature-to-image"]
+	path = "Net/HowTo/add-signature-to-image"
+	url = "https://gist.github.com/d9327bad01cf5189892c49f4e05ac01d"
+[submodule "Net/HowTo/change-dpi-value-for-jpeg-image"]
+	path = "Net/HowTo/change-dpi-value-for-jpeg-image"
+	url = "https://gist.github.com/e51748d299b61ba6cdbd702840052496"
+[submodule "Net/HowTo/check-if-jpeg-image-is-empty"]
+	path = "Net/HowTo/check-if-jpeg-image-is-empty"
+	url = "https://gist.github.com/6f5f3f36222b4031eb8d1e2d85cdb5cf"
+[submodule "Net/HowTo/clean-exif-data-in-tiff-image"]
+	path = "Net/HowTo/clean-exif-data-in-tiff-image"
+	url = "https://gist.github.com/f91ca1b3dec5767f4baaaea86585e5a2"
+[submodule "Net/HowTo/convert-tiff-image-byte-array-to-png-image-byte-array"]
+	path = "Net/HowTo/convert-tiff-image-byte-array-to-png-image-byte-array"
+	url = "https://gist.github.com/fbd5ea123def9ae48e6b55171e5b3a60"
 [submodule "Net/HowTo/convert-vector-image-to-vectorized-psd-image"]
 	path = "Net/HowTo/convert-vector-image-to-vectorized-psd-image"
 	url = "https://gist.github.com/cb4bb97be7e1e12032817041f572ddf3"
+[submodule "Net/HowTo/create-multipage-tiff-from-set-of-images"]
+	path = "Net/HowTo/create-multipage-tiff-from-set-of-images"
+	url = "https://gist.github.com/6e41de7bd665a06b28e8be035064f505"
+[submodule "Net/HowTo/draw-string-with-extra-space-between-symbols-or-lines"]
+	path = "Net/HowTo/draw-string-with-extra-space-between-symbols-or-lines"
+	url = "https://gist.github.com/078eb4e3e29d7b6cb10a2f13380e47d0"
 [submodule "Net/HowTo/draw-text-using-graphics"]
 	path = "Net/HowTo/draw-text-using-graphics"
 	url = "https://gist.github.com/34906966ea6a4a690c27e3ae30802928"
+[submodule "Net/HowTo/load-image-from-array"]
+	path = "Net/HowTo/load-image-from-array"
+	url = "https://gist.github.com/257bb0c977d51df35ea4d334c5b67c1a"
 [submodule "Net/HowTo/look-like-scanned"]
 	path = "Net/HowTo/look-like-scanned"
 	url = "https://gist.github.com/a9a9e3d71675a0559d3f0c64a468026d"
+[submodule "Net/HowTo/properly-align-text-with-drawstring-method"]
+	path = "Net/HowTo/properly-align-text-with-drawstring-method"
+	url = "https://gist.github.com/1d944f2feaa93b9181887ef099cb8966"
+[submodule "Net/HowTo/save-jpeg-image-with-various-compression-types"]
+	path = "Net/HowTo/save-jpeg-image-with-various-compression-types"
+	url = "https://gist.github.com/0953b63a52a73dae23963929238f0b16"
 [submodule "Net/HowTo/save-transparent-image"]
 	path = "Net/HowTo/save-transparent-image"
 	url = "https://gist.github.com/36c4ea3618e1a05a473bb513030fac6e"
