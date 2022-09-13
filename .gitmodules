@@ -139,6 +139,9 @@
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Bmp Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Bmp Images"
 	url = "https://gist.github.com/5f0a945174e6ac022f75e1d66dc565f5"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Jpeg Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Jpeg Images"
+	url = "https://gist.github.com/6cfa01acc68b34afdaa262be2006201d"
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Png Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Png Images"
 	url = "https://gist.github.com/2fb66b57ca3aa7e52527f8864ed6fc2d"
