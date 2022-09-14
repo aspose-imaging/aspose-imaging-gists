@@ -166,6 +166,9 @@
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Gif Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Gif Images"
 	url = "https://gist.github.com/db72c91e08c66795bf88920fd8888a8f"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Html5 Canvas Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Html5 Canvas Images"
+	url = "https://gist.github.com/2c302bc982fabbed938edcebbd673c76"
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Jpeg Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Jpeg Images"
 	url = "https://gist.github.com/6cfa01acc68b34afdaa262be2006201d"
