@@ -139,6 +139,33 @@
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Bmp Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Bmp Images"
 	url = "https://gist.github.com/5f0a945174e6ac022f75e1d66dc565f5"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Cdr Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Cdr Images"
+	url = "https://gist.github.com/927ab27d0610653440654491ee65f0bb"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Cmx Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Cmx Images"
+	url = "https://gist.github.com/14653de3eddb4bd8674f59d7017a894e"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Dicom Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Dicom Images"
+	url = "https://gist.github.com/3016e4983ca0e72eae54454a477240b8"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Djvu Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Djvu Images"
+	url = "https://gist.github.com/dad7fb3d598641970a8b42bcf8521909"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Dng Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Dng Images"
+	url = "https://gist.github.com/673aa8ba5913babbff9e8a29616ee721"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Dxf Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Dxf Images"
+	url = "https://gist.github.com/cf718546f3ce764f423ca2d5117cdcf3"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Emf Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Emf Images"
+	url = "https://gist.github.com/89c35b22f6e38abb0c87459cfa28b8be"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Fodg Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Fodg Images"
+	url = "https://gist.github.com/ef39169c323a8ca365be9ee4e90ded4c"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Gif Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Gif Images"
+	url = "https://gist.github.com/db72c91e08c66795bf88920fd8888a8f"
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Jpeg Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Jpeg Images"
 	url = "https://gist.github.com/6cfa01acc68b34afdaa262be2006201d"
