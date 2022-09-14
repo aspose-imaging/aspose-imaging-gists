@@ -172,12 +172,24 @@
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Jpeg Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Jpeg Images"
 	url = "https://gist.github.com/6cfa01acc68b34afdaa262be2006201d"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Jpeg2000 Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Jpeg2000 Images"
+	url = "https://gist.github.com/47931bb418e53a9eba11bc1cccad5863"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Metafiles"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Metafiles"
+	url = "https://gist.github.com/f8690c34968d631d7673a25f4a1e5daf"
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Png Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Png Images"
 	url = "https://gist.github.com/2fb66b57ca3aa7e52527f8864ed6fc2d"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Psd Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Psd Images"
+	url = "https://gist.github.com/fe8c8c8a9ba2c9680f9479b43d8c0498"
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Svg Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Svg Images"
 	url = "https://gist.github.com/8f3cb6e37dd2b28717779dd41a767735"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Tga Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Tga Images"
+	url = "https://gist.github.com/15590f4711c7f2d86786ebf07e9b9118"
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Tiff Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Tiff Images"
 	url = "https://gist.github.com/a4d291863dc9ba53b888c52610950526"
