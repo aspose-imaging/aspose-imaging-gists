@@ -238,6 +238,9 @@
 [submodule "Java/Manipulate Images/Convert cmx images"]
 	path = "Java/Manipulate Images/Convert cmx images"
 	url = "https://gist.github.com/c1a1fdfd693f801093c545a00890680e"
+[submodule "Java/Manipulate Images/Convert emf wmf images"]
+	path = "Java/Manipulate Images/Convert emf wmf images"
+	url = "https://gist.github.com/3628082647129921163d0b0c5af28d18"
 [submodule "Java/Merge"]
 	path = "Java/Merge"
 	url = "https://gist.github.com/d8c86be526ab92ccc5eaafd1eaa1320b"
