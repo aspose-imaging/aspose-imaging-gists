@@ -115,15 +115,48 @@
 [submodule "Java/Grayscale"]
 	path = "Java/Grayscale"
 	url = "https://gist.github.com/106a444035bb986e4e29211350868cbc"
+[submodule "Java/HowTo/access-and-change-rgb-values-of-pixels"]
+	path = "Java/HowTo/access-and-change-rgb-values-of-pixels"
+	url = "https://gist.github.com/ad62ed056e90d5cb411efb3fa757a0e3"
+[submodule "Java/HowTo/add-signature-to-image"]
+	path = "Java/HowTo/add-signature-to-image"
+	url = "https://gist.github.com/997bd28a5abe64377ed1935ed0ab9f0c"
+[submodule "Java/HowTo/change-dpi-value-for-jpeg-image"]
+	path = "Java/HowTo/change-dpi-value-for-jpeg-image"
+	url = "https://gist.github.com/57c2ece99a4979a761e9ef4ec4a9b606"
+[submodule "Java/HowTo/check-if-jpeg-image-is-empty"]
+	path = "Java/HowTo/check-if-jpeg-image-is-empty"
+	url = "https://gist.github.com/3d83bd96fb094ed6706b67511ec01e12"
+[submodule "Java/HowTo/clean-exif-data-in-tiff-image"]
+	path = "Java/HowTo/clean-exif-data-in-tiff-image"
+	url = "https://gist.github.com/af19e4d463f2310cbddaa06e0faf8eeb"
+[submodule "Java/HowTo/convert-tiff-image-byte-array-to-png-image-byte-array"]
+	path = "Java/HowTo/convert-tiff-image-byte-array-to-png-image-byte-array"
+	url = "https://gist.github.com/27c43df6c5ff049640230f810715d508"
 [submodule "Java/HowTo/convert-vector-image-to-vectorized-psd-image"]
 	path = "Java/HowTo/convert-vector-image-to-vectorized-psd-image"
 	url = "https://gist.github.com/834536b8a95a928def76be1e123b71db"
+[submodule "Java/HowTo/create-multipage-tiff-from-set-of-images"]
+	path = "Java/HowTo/create-multipage-tiff-from-set-of-images"
+	url = "https://gist.github.com/ecc80bfda4b4d593f1dbaac974f6e950"
+[submodule "Java/HowTo/draw-string-with-extra-space-between-symbols-or-lines"]
+	path = "Java/HowTo/draw-string-with-extra-space-between-symbols-or-lines"
+	url = "https://gist.github.com/ecebccdf677441ab2e7a976d0322fa3a"
 [submodule "Java/HowTo/draw-text-using-graphics"]
 	path = "Java/HowTo/draw-text-using-graphics"
 	url = "https://gist.github.com/c8d164b9aaf58702d431710fe0181ced"
+[submodule "Java/HowTo/load-image-from-array"]
+	path = "Java/HowTo/load-image-from-array"
+	url = "https://gist.github.com/92df13e250ecea7df5be6fe45af71c3f"
 [submodule "Java/HowTo/look-like-scanned"]
 	path = "Java/HowTo/look-like-scanned"
 	url = "https://gist.github.com/ade5faeabffd1fe6d4b6bab53850897d"
+[submodule "Java/HowTo/properly-align-text-with-drawstring-method"]
+	path = "Java/HowTo/properly-align-text-with-drawstring-method"
+	url = "https://gist.github.com/5c719536661ebe093b45b934e07017d2"
+[submodule "Java/HowTo/save-jpeg-image-with-various-compression-types"]
+	path = "Java/HowTo/save-jpeg-image-with-various-compression-types"
+	url = "https://gist.github.com/5631779806e0ac25ed31aceed3d9b7f1"
 [submodule "Java/HowTo/save-transparent-image"]
 	path = "Java/HowTo/save-transparent-image"
 	url = "https://gist.github.com/2ce396b4f1417ab0463e18f51cc6e63d"
