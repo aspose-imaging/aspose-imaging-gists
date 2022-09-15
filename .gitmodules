@@ -232,6 +232,12 @@
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Wmf Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Wmf Images"
 	url = "https://gist.github.com/bb4153abcd87e8ebfaf958e52caa24bf"
+[submodule "Java/Manipulate Images/Convert cdr images"]
+	path = "Java/Manipulate Images/Convert cdr images"
+	url = "https://gist.github.com/f8b728e78dc4d68bac5c6dca9ecd3803"
+[submodule "Java/Manipulate Images/Convert cmx images"]
+	path = "Java/Manipulate Images/Convert cmx images"
+	url = "https://gist.github.com/c1a1fdfd693f801093c545a00890680e"
 [submodule "Java/Merge"]
 	path = "Java/Merge"
 	url = "https://gist.github.com/d8c86be526ab92ccc5eaafd1eaa1320b"
