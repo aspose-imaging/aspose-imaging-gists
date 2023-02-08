@@ -595,3 +595,6 @@
 [submodule "Net/Working With Drawing Images/Drawing raster images on vector images"]
 	path = "Net/Working With Drawing Images/Drawing raster images on vector images"
 	url = "https://gist.github.com/931c58201140de140db38a456a248c61"
+[submodule "Python/Licensing"]
+	path = "Python/Licensing"
+	url = "https://gist.github.com/28a927648a9072b9c68328fd91a9c697"
