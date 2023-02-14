@@ -577,9 +577,6 @@
 [submodule "Net/Technical articles/Watermark"]
 	path = "Net/Technical articles/Watermark"
 	url = "https://gist.github.com/089c2d464f35ca1060569bbeb2d353d7"
-[submodule "Net/Test"]
-	path = "Net/Test"
-	url = "https://gist.github.com/3766cb69cc4b8cd2574e2fc190f7a2d2"
 [submodule "Net/Watermark"]
 	path = "Net/Watermark"
 	url = "https://gist.github.com/f63c201f51d5673401fc0d32a6e1c4b1"
