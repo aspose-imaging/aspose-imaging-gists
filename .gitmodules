@@ -541,6 +541,24 @@
 [submodule "Net/Merge"]
 	path = "Net/Merge"
 	url = "https://gist.github.com/c3b1f39eaf550446e244e071b29d5191"
+[submodule "Net/PlugIn/Common"]
+	path = "Net/PlugIn/Common"
+	url = "https://gist.github.com/9d84d3931cbd1402f3238b22307f58f9"
+[submodule "Net/PlugIn/Conversion plugin"]
+	path = "Net/PlugIn/Conversion plugin"
+	url = "https://gist.github.com/7f3a1026f5445e0ec258b514403c2426"
+[submodule "Net/PlugIn/Crop plugin"]
+	path = "Net/PlugIn/Crop plugin"
+	url = "https://gist.github.com/8121f0043a3810ac7802ba3209ee8eae"
+[submodule "Net/PlugIn/Image album plugin"]
+	path = "Net/PlugIn/Image album plugin"
+	url = "https://gist.github.com/01fededbe3304aa5de8d832a2a818ed0"
+[submodule "Net/PlugIn/Merge plugin"]
+	path = "Net/PlugIn/Merge plugin"
+	url = "https://gist.github.com/74bc29dc5d40264dc96cfeac8493c3d4"
+[submodule "Net/PlugIn/Resize plugin"]
+	path = "Net/PlugIn/Resize plugin"
+	url = "https://gist.github.com/b3c20aa5e8a7d88b797eca216cf9c8fd"
 [submodule "Net/RemoveBackground"]
 	path = "Net/RemoveBackground"
 	url = "https://gist.github.com/c28d7d7f7dff39444751b5724d5ba14a"
