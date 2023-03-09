@@ -613,6 +613,249 @@
 [submodule "Net/Working With Drawing Images/Drawing raster images on vector images"]
 	path = "Net/Working With Drawing Images/Drawing raster images on vector images"
 	url = "https://gist.github.com/931c58201140de140db38a456a248c61"
+[submodule "Python/AddXmpTagsToDicomImage"]
+	path = "Python/AddXmpTagsToDicomImage"
+	url = "https://gist.github.com/fa128e32a21402fd63f2acb842ad7b9a"
+[submodule "Python/Adjust"]
+	path = "Python/Adjust"
+	url = "https://gist.github.com/eb0416485d011f42fdaa4412588177a3"
+[submodule "Python/Binarize"]
+	path = "Python/Binarize"
+	url = "https://gist.github.com/3fa6b0222e82664ed1216a1a2f5d3663"
+[submodule "Python/Compress"]
+	path = "Python/Compress"
+	url = "https://gist.github.com/5dfa86762d4715af48f60319325abff2"
+[submodule "Python/Convert"]
+	path = "Python/Convert"
+	url = "https://gist.github.com/e1d418ed58a1f4598f259e62914511d4"
+[submodule "Python/Crop"]
+	path = "Python/Crop"
+	url = "https://gist.github.com/80a9533c16dfa1754612ec72fc64421a"
+[submodule "Python/Dithering"]
+	path = "Python/Dithering"
+	url = "https://gist.github.com/14f78a3c7d762e7843a6e735440c1108"
+[submodule "Python/ExtractRasterImagesEmbeddedInVector"]
+	path = "Python/ExtractRasterImagesEmbeddedInVector"
+	url = "https://gist.github.com/7d503b838d07f6a8b8ef90e6737cd8c1"
+[submodule "Python/Filters"]
+	path = "Python/Filters"
+	url = "https://gist.github.com/ff91f0a36b9bf6eae152d95791eb3bcc"
+[submodule "Python/GetTiffOriginalOptions"]
+	path = "Python/GetTiffOriginalOptions"
+	url = "https://gist.github.com/ed3320071dd08f7ddfe0fa5da8f25380"
+[submodule "Python/Grayscale"]
+	path = "Python/Grayscale"
+	url = "https://gist.github.com/d1b73e17e87dd83d5c125afae9c36c0b"
+[submodule "Python/HowTo/access-and-change-rgb-values-of-pixels"]
+	path = "Python/HowTo/access-and-change-rgb-values-of-pixels"
+	url = "https://gist.github.com/2aab602a2f68893f7500ab81fd8bf9e1"
+[submodule "Python/HowTo/add-signature-to-image"]
+	path = "Python/HowTo/add-signature-to-image"
+	url = "https://gist.github.com/7214484763a5add4c1c35b025bcb9a1b"
+[submodule "Python/HowTo/change-dpi-value-for-jpeg-image"]
+	path = "Python/HowTo/change-dpi-value-for-jpeg-image"
+	url = "https://gist.github.com/e60d43d8149fbf30ac4bd729ce6389df"
+[submodule "Python/HowTo/check-if-jpeg-image-is-empty"]
+	path = "Python/HowTo/check-if-jpeg-image-is-empty"
+	url = "https://gist.github.com/2268310f7214c78a79422250917003e0"
+[submodule "Python/HowTo/clean-exif-data-in-tiff-image"]
+	path = "Python/HowTo/clean-exif-data-in-tiff-image"
+	url = "https://gist.github.com/2ae4373effef9bb220734b72fbe17771"
+[submodule "Python/HowTo/convert-vector-image-to-vectorized-psd-image"]
+	path = "Python/HowTo/convert-vector-image-to-vectorized-psd-image"
+	url = "https://gist.github.com/c7a9d7cd5603156d89b3884d6c18430f"
+[submodule "Python/HowTo/create-multipage-tiff-from-set-of-images"]
+	path = "Python/HowTo/create-multipage-tiff-from-set-of-images"
+	url = "https://gist.github.com/7a31ff8bfe7ba96a426ce68d28497dda"
+[submodule "Python/HowTo/draw-string-with-extra-space-between-symbols-or-lines"]
+	path = "Python/HowTo/draw-string-with-extra-space-between-symbols-or-lines"
+	url = "https://gist.github.com/356584c6b28855c75739864f3d7fbe08"
+[submodule "Python/HowTo/draw-text-using-graphics"]
+	path = "Python/HowTo/draw-text-using-graphics"
+	url = "https://gist.github.com/c7c79401a172e8b24dcfb66d412725da"
+[submodule "Python/HowTo/look-like-scanned"]
+	path = "Python/HowTo/look-like-scanned"
+	url = "https://gist.github.com/06fe06fe60e3d84164370466a346295e"
+[submodule "Python/HowTo/properly-align-text-with-drawstring-method"]
+	path = "Python/HowTo/properly-align-text-with-drawstring-method"
+	url = "https://gist.github.com/2f7952daf47f3955e3fcf4f8cacf7ba3"
+[submodule "Python/HowTo/save-jpeg-image-with-various-compression-types"]
+	path = "Python/HowTo/save-jpeg-image-with-various-compression-types"
+	url = "https://gist.github.com/4d444e383bd43b26ffbbf6406d7dec74"
+[submodule "Python/HowTo/save-transparent-image"]
+	path = "Python/HowTo/save-transparent-image"
+	url = "https://gist.github.com/65c1d7b41c2ac490d4fd82de5d3014fb"
+[submodule "Python/HowTo/wmf-text-to-png"]
+	path = "Python/HowTo/wmf-text-to-png"
+	url = "https://gist.github.com/9594d83600c932a0a865655c5e665add"
+[submodule "Python/Intro"]
+	path = "Python/Intro"
+	url = "https://gist.github.com/afe32f26944235686ade7c8b3c43cf30"
 [submodule "Python/Licensing"]
 	path = "Python/Licensing"
 	url = "https://gist.github.com/28a927648a9072b9c68328fd91a9c697"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Bmp Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Bmp Images"
+	url = "https://gist.github.com/6f1862f55df5aa88d7927cf00f3c8b41"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Cdr Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Cdr Images"
+	url = "https://gist.github.com/b4cae91031fe8bba308ebffcabac8e4c"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Cmx Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Cmx Images"
+	url = "https://gist.github.com/e2095efaaa354c2014bada52a35d11a0"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Dicom Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Dicom Images"
+	url = "https://gist.github.com/e4d41a92dd100ad966dc888bc9528155"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Djvu Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Djvu Images"
+	url = "https://gist.github.com/ac10a0bbf2180951864a381753f43f77"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Dng Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Dng Images"
+	url = "https://gist.github.com/420387a37270c819b47bd0ddda522cc8"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Dxf Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Dxf Images"
+	url = "https://gist.github.com/8d568efc53dbc770c66eca8a725d1e54"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Emf Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Emf Images"
+	url = "https://gist.github.com/fa00c266e2a6d57db8a86181eb8fb117"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Fodg Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Fodg Images"
+	url = "https://gist.github.com/c441996ef2cabda7ce02ed5ebd7d39e2"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Gif  Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Gif  Images"
+	url = "https://gist.github.com/cdacae0adba001fbd0bc0febec59af2f"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Html5 Canvas Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Html5 Canvas Images"
+	url = "https://gist.github.com/20b6ba0af83f159125568cbac01ae326"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Jpeg Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Jpeg Images"
+	url = "https://gist.github.com/cf00ded228aeeddf4545a5a84f8aaebc"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Jpeg2000 Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Jpeg2000 Images"
+	url = "https://gist.github.com/ad19aa95a82650f73945a2a58039dea5"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Metafiles"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Metafiles"
+	url = "https://gist.github.com/1c649f750396bf5e3444155268b7b727"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Png Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Png Images"
+	url = "https://gist.github.com/a6c5f6f4e75f65c241fc33ed99d7fdd4"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Psd Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Psd Images"
+	url = "https://gist.github.com/3c2cac80248f57f05bd284545539b4a7"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Svg Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Svg Images"
+	url = "https://gist.github.com/b41146a7e894735a6cf0274893a716a0"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Tga Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Tga Images"
+	url = "https://gist.github.com/48bff1f585513a9b61d3b291fb9742fd"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Tiff Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Tiff Images"
+	url = "https://gist.github.com/fe159912bc60afbb34307153aa534ed3"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Webp Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Webp Images"
+	url = "https://gist.github.com/8ceff50985ea61b20e58c7e4e15775f4"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Wmf Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Wmf Images"
+	url = "https://gist.github.com/09b9ebed6c071b436111f0be7ea0f0e6"
+[submodule "Python/Manipulate Images/Convert cdr images"]
+	path = "Python/Manipulate Images/Convert cdr images"
+	url = "https://gist.github.com/a47cafeb4b72c2e174253735a0bcb2c5"
+[submodule "Python/Manipulate Images/Convert cmx images"]
+	path = "Python/Manipulate Images/Convert cmx images"
+	url = "https://gist.github.com/03f1ce24cc618ef1d69e77115f3b45e8"
+[submodule "Python/Manipulate Images/Convert emf wmf images"]
+	path = "Python/Manipulate Images/Convert emf wmf images"
+	url = "https://gist.github.com/40d75146ee08090b364358ba1d842e2a"
+[submodule "Python/Manipulate Images/Convert eps images"]
+	path = "Python/Manipulate Images/Convert eps images"
+	url = "https://gist.github.com/c5bd51ed7801cb784749d175675d0b9a"
+[submodule "Python/Manipulate Images/Convert Images"]
+	path = "Python/Manipulate Images/Convert Images"
+	url = "https://gist.github.com/eaf869f5b740cd5629c155a2208746d1"
+[submodule "Python/Manipulate Images/Convert odg images"]
+	path = "Python/Manipulate Images/Convert odg images"
+	url = "https://gist.github.com/1d5c9180a774648d953c83a29b2c1df0"
+[submodule "Python/Manipulate Images/Convert webp images"]
+	path = "Python/Manipulate Images/Convert webp images"
+	url = "https://gist.github.com/4e68fca291a0fe6e3c60939964b344f7"
+[submodule "Python/Manipulate Images/Convert-apng-images"]
+	path = "Python/Manipulate Images/Convert-apng-images"
+	url = "https://gist.github.com/3b7396fff9355fa1880d21b960c296ba"
+[submodule "Python/Manipulate Images/Create,open and save images"]
+	path = "Python/Manipulate Images/Create,open and save images"
+	url = "https://gist.github.com/8997090ce2d3e626fdc759cba091461e"
+[submodule "Python/Manipulate Images/Crop,rotate and resize images"]
+	path = "Python/Manipulate Images/Crop,rotate and resize images"
+	url = "https://gist.github.com/e3ab4246a7061ee32df42c74051bdaff"
+[submodule "Python/Manipulate Images/Deskew image"]
+	path = "Python/Manipulate Images/Deskew image"
+	url = "https://gist.github.com/d4e930f193bb3e6544aea9774c94113c"
+[submodule "Python/Manipulate Images/Median and Weiner filters"]
+	path = "Python/Manipulate Images/Median and Weiner filters"
+	url = "https://gist.github.com/130393a263839bdec42303ea6d9b5ab8"
+[submodule "Python/Manipulate Images/Merge images"]
+	path = "Python/Manipulate Images/Merge images"
+	url = "https://gist.github.com/08775dbfb1e28e26b5b17b9e6e0b6376"
+[submodule "Python/Manipulate Images/Modifying images"]
+	path = "Python/Manipulate Images/Modifying images"
+	url = "https://gist.github.com/5ce92a5438114744867a1e42a1c0cd63"
+[submodule "Python/Manipulate Images/Setting properties on images"]
+	path = "Python/Manipulate Images/Setting properties on images"
+	url = "https://gist.github.com/aa18fbd2c3937083788e4da65662d320"
+[submodule "Python/Manipulate Images/Working with Multipage image formats"]
+	path = "Python/Manipulate Images/Working with Multipage image formats"
+	url = "https://gist.github.com/20d66279b22f62994ebec17bde0dc34f"
+[submodule "Python/Merge"]
+	path = "Python/Merge"
+	url = "https://gist.github.com/d0728503653a0997a302ddc082221e30"
+[submodule "Python/Resize"]
+	path = "Python/Resize"
+	url = "https://gist.github.com/0b3caaec9f637bf3eb6916ce7b70603c"
+[submodule "Python/SaveFileExtensionAware"]
+	path = "Python/SaveFileExtensionAware"
+	url = "https://gist.github.com/5662d295e6e41b51fd9000fcfd6b5317"
+[submodule "Python/Showcases/Compressed vector formats"]
+	path = "Python/Showcases/Compressed vector formats"
+	url = "https://gist.github.com/62318d9a15ea68c4557201ad9f90396c"
+[submodule "Python/Showcases/Convert eps image to different formats using postscript renderer"]
+	path = "Python/Showcases/Convert eps image to different formats using postscript renderer"
+	url = "https://gist.github.com/c396c0e9e2299c2507b8e7e07eb4dac3"
+[submodule "Python/Showcases/Creating and manipulating apng animation"]
+	path = "Python/Showcases/Creating and manipulating apng animation"
+	url = "https://gist.github.com/dedf83af97e8f90b18a3ce1620c029f6"
+[submodule "Python/Showcases/Deskew"]
+	path = "Python/Showcases/Deskew"
+	url = "https://gist.github.com/10a4ae814eef7b22d48295a8fa9d0d1d"
+[submodule "Python/Showcases/Full frame gif support"]
+	path = "Python/Showcases/Full frame gif support"
+	url = "https://gist.github.com/2489289feaa257f9e8bab3611e4ff86f"
+[submodule "Python/Showcases/Html5 Canvas"]
+	path = "Python/Showcases/Html5 Canvas"
+	url = "https://gist.github.com/985dbd987919337bbf84a3ef8ea1319e"
+[submodule "Python/Showcases/Sequential export"]
+	path = "Python/Showcases/Sequential export"
+	url = "https://gist.github.com/4070fc7db759270e2a912046e55c8913"
+[submodule "Python/Technical articles/Interesting features"]
+	path = "Python/Technical articles/Interesting features"
+	url = "https://gist.github.com/0670423c73848229d8e147491b8f0182"
+[submodule "Python/Technical articles/Watermark"]
+	path = "Python/Technical articles/Watermark"
+	url = "https://gist.github.com/738ae5f8f8c529196747b94e49abe952"
+[submodule "Python/Watermark"]
+	path = "Python/Watermark"
+	url = "https://gist.github.com/38cbe119e343dfaeed1ac9975acb46fe"
+[submodule "Python/Working with drawing images/Drawing Images"]
+	path = "Python/Working with drawing images/Drawing Images"
+	url = "https://gist.github.com/9a7b58918dc6e873902b046a504d613f"
+[submodule "Python/Working with drawing images/Drawing Images Using Graphics"]
+	path = "Python/Working with drawing images/Drawing Images Using Graphics"
+	url = "https://gist.github.com/040f3eed820b297360357d5e45066036"
+[submodule "Python/Working with drawing images/Drawing Images Using Graphics Path"]
+	path = "Python/Working with drawing images/Drawing Images Using Graphics Path"
+	url = "https://gist.github.com/854614064b3727dd6ec07641a804ed46"
+[submodule "Python/Working with drawing images/Drawing on vector images"]
+	path = "Python/Working with drawing images/Drawing on vector images"
+	url = "https://gist.github.com/061e901b9160b564bb87a2ab1098d1b5"
+[submodule "Python/Working with drawing images/Drawing raster images on vector images"]
+	path = "Python/Working with drawing images/Drawing raster images on vector images"
+	url = "https://gist.github.com/19dee40d09ab8956e9897ffe34e424ce"
