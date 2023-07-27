@@ -307,6 +307,18 @@
 [submodule "Net/Conversion/gif"]
 	path = "Net/Conversion/gif"
 	url = "https://gist.github.com/aspose-com-gists/0dfac1d679fe6125d696d1a66d991346"
+[submodule "Net/Conversion/ico"]
+	path = "Net/Conversion/ico"
+	url = "https://gist.github.com/aspose-com-gists/f8341ff403180df3101ad95318d7954e"
+[submodule "Net/Conversion/j2k"]
+	path = "Net/Conversion/j2k"
+	url = "https://gist.github.com/aspose-com-gists/edfe5302b3a0d2d40140d608bf13a799"
+[submodule "Net/Conversion/jp2"]
+	path = "Net/Conversion/jp2"
+	url = "https://gist.github.com/aspose-com-gists/d167f0c1dd15b076686df701892e6b1a"
+[submodule "Net/Conversion/jpeg"]
+	path = "Net/Conversion/jpeg"
+	url = "https://gist.github.com/aspose-com-gists/cfe5a5e567a33d1bd815485a06f09677"
 [submodule "Net/Conversion/jpeg2000"]
 	path = "Net/Conversion/jpeg2000"
 	url = "https://gist.github.com/aspose-com-gists/fd6e093454ec07a78c6573ee70c51a2c"
@@ -331,6 +343,9 @@
 [submodule "Net/Conversion/tga"]
 	path = "Net/Conversion/tga"
 	url = "https://gist.github.com/aspose-com-gists/7ea8d36893e41a713493a85f89a7bbc7"
+[submodule "Net/Conversion/tif"]
+	path = "Net/Conversion/tif"
+	url = "https://gist.github.com/aspose-com-gists/7541e333aba1f137d31c8f0b15a4519f"
 [submodule "Net/Conversion/tiff"]
 	path = "Net/Conversion/tiff"
 	url = "https://gist.github.com/aspose-com-gists/a0918ab26b50f4aaa25213f37eb2e95b"
