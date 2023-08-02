@@ -49,12 +49,18 @@
 [submodule "Java/Conversion/gif"]
 	path = "Java/Conversion/gif"
 	url = "https://gist.github.com/aspose-com-gists/5c0b1ad0efc459734a6d44da8a897a80"
+[submodule "Java/Conversion/ico"]
+	path = "Java/Conversion/ico"
+	url = "https://gist.github.com/aspose-com-gists/d038efb903779c7f599e136f789a9732"
 [submodule "Java/Conversion/j2k"]
 	path = "Java/Conversion/j2k"
 	url = "https://gist.github.com/aspose-com-gists/ceaefc1656df207ad91467516e63f287"
 [submodule "Java/Conversion/jp2"]
 	path = "Java/Conversion/jp2"
 	url = "https://gist.github.com/aspose-com-gists/2393ca3d869b79afc41da64fad558168"
+[submodule "Java/Conversion/jpeg"]
+	path = "Java/Conversion/jpeg"
+	url = "https://gist.github.com/aspose-com-gists/d0d1035660cbebbb44d4d89dabc29f7e"
 [submodule "Java/Conversion/jpeg2000"]
 	path = "Java/Conversion/jpeg2000"
 	url = "https://gist.github.com/aspose-com-gists/6351dfd0d434bb9daea391815ede714a"
@@ -79,6 +85,9 @@
 [submodule "Java/Conversion/tga"]
 	path = "Java/Conversion/tga"
 	url = "https://gist.github.com/aspose-com-gists/4348ea20efe85236fb631ec9a4fcb1d6"
+[submodule "Java/Conversion/tif"]
+	path = "Java/Conversion/tif"
+	url = "https://gist.github.com/aspose-com-gists/4692bb0a11165a68859b6d36c30f4be1"
 [submodule "Java/Conversion/tiff"]
 	path = "Java/Conversion/tiff"
 	url = "https://gist.github.com/aspose-com-gists/3d47ffb21a520c5ff9be971b72b0a9b9"
@@ -640,6 +649,93 @@
 [submodule "Python/Compress"]
 	path = "Python/Compress"
 	url = "https://gist.github.com/aspose-com-gists/5dfa86762d4715af48f60319325abff2"
+[submodule "Python/Conversion/apng"]
+	path = "Python/Conversion/apng"
+	url = "https://gist.github.com/aspose-com-gists/e670cbd79d6e5f5a83df888fb1ff0509"
+[submodule "Python/Conversion/bmp"]
+	path = "Python/Conversion/bmp"
+	url = "https://gist.github.com/aspose-com-gists/455ab6bdea8e09c1c9bc25bc5b314bc3"
+[submodule "Python/Conversion/cdr"]
+	path = "Python/Conversion/cdr"
+	url = "https://gist.github.com/aspose-com-gists/fbe1824ae8ca9907e37703bd6ce1ed79"
+[submodule "Python/Conversion/cmx"]
+	path = "Python/Conversion/cmx"
+	url = "https://gist.github.com/aspose-com-gists/8e63b3884c61e58948defd78b3423b07"
+[submodule "Python/Conversion/dib"]
+	path = "Python/Conversion/dib"
+	url = "https://gist.github.com/aspose-com-gists/7ab7701d0d67c8e77cdcece00f2df8b8"
+[submodule "Python/Conversion/dicom"]
+	path = "Python/Conversion/dicom"
+	url = "https://gist.github.com/aspose-com-gists/90be19fbab7fdc71bb3cbbcb67322297"
+[submodule "Python/Conversion/djvu"]
+	path = "Python/Conversion/djvu"
+	url = "https://gist.github.com/aspose-com-gists/5ff4121d3a96df7b348aef98f71662ed"
+[submodule "Python/Conversion/dng"]
+	path = "Python/Conversion/dng"
+	url = "https://gist.github.com/aspose-com-gists/527f5790c2e8703b2c5dd2eb4e0626be"
+[submodule "Python/Conversion/emf"]
+	path = "Python/Conversion/emf"
+	url = "https://gist.github.com/aspose-com-gists/1f1558379c5536b55391268dc4ab20b4"
+[submodule "Python/Conversion/emz"]
+	path = "Python/Conversion/emz"
+	url = "https://gist.github.com/aspose-com-gists/8eae3d596f532dd9e262816ac9873bef"
+[submodule "Python/Conversion/eps"]
+	path = "Python/Conversion/eps"
+	url = "https://gist.github.com/aspose-com-gists/2379454b97fd1ff9ced6d02935745dc2"
+[submodule "Python/Conversion/gif"]
+	path = "Python/Conversion/gif"
+	url = "https://gist.github.com/aspose-com-gists/9a422fca3db15a4adf0316680206c930"
+[submodule "Python/Conversion/ico"]
+	path = "Python/Conversion/ico"
+	url = "https://gist.github.com/aspose-com-gists/0096d5fc3e5de38fff60969d57cbc989"
+[submodule "Python/Conversion/j2k"]
+	path = "Python/Conversion/j2k"
+	url = "https://gist.github.com/aspose-com-gists/01ab82af17a9b4a1e276776a67315f12"
+[submodule "Python/Conversion/jp2"]
+	path = "Python/Conversion/jp2"
+	url = "https://gist.github.com/aspose-com-gists/ac6dd830222a1241b2f3b0c6bedecff2"
+[submodule "Python/Conversion/jpeg"]
+	path = "Python/Conversion/jpeg"
+	url = "https://gist.github.com/aspose-com-gists/296925b765abafebfeb639c6b470e659"
+[submodule "Python/Conversion/jpeg2000"]
+	path = "Python/Conversion/jpeg2000"
+	url = "https://gist.github.com/aspose-com-gists/f91418ddf3ba25a20fb30d355cb9e087"
+[submodule "Python/Conversion/jpg"]
+	path = "Python/Conversion/jpg"
+	url = "https://gist.github.com/aspose-com-gists/0efc6c2f96c556030c6004ec7616c43c"
+[submodule "Python/Conversion/odg"]
+	path = "Python/Conversion/odg"
+	url = "https://gist.github.com/aspose-com-gists/dff5d26d2192a0354e073003e3ebc7ac"
+[submodule "Python/Conversion/otg"]
+	path = "Python/Conversion/otg"
+	url = "https://gist.github.com/aspose-com-gists/082ab8d030210eb2c3ff88c50073caff"
+[submodule "Python/Conversion/png"]
+	path = "Python/Conversion/png"
+	url = "https://gist.github.com/aspose-com-gists/1d84bc1aa446a3bcee8392d661f37347"
+[submodule "Python/Conversion/svg"]
+	path = "Python/Conversion/svg"
+	url = "https://gist.github.com/aspose-com-gists/1cf60dece14ea64f1a5a1001344ff069"
+[submodule "Python/Conversion/svgz"]
+	path = "Python/Conversion/svgz"
+	url = "https://gist.github.com/aspose-com-gists/42e47215716e3942cd8fb2db37b65d3a"
+[submodule "Python/Conversion/tga"]
+	path = "Python/Conversion/tga"
+	url = "https://gist.github.com/aspose-com-gists/3555736fbb42d026e482649fa8837a27"
+[submodule "Python/Conversion/tif"]
+	path = "Python/Conversion/tif"
+	url = "https://gist.github.com/aspose-com-gists/5a8c95e45c67050637ebe7ea1aa346fd"
+[submodule "Python/Conversion/tiff"]
+	path = "Python/Conversion/tiff"
+	url = "https://gist.github.com/aspose-com-gists/965b4e76cacabd2662b85fb3f0095e5d"
+[submodule "Python/Conversion/webp"]
+	path = "Python/Conversion/webp"
+	url = "https://gist.github.com/aspose-com-gists/ea6699eed7540cf1541242cc3c9f94d1"
+[submodule "Python/Conversion/wmf"]
+	path = "Python/Conversion/wmf"
+	url = "https://gist.github.com/aspose-com-gists/561afb6cc39dd35857e7d8ef1005ba61"
+[submodule "Python/Conversion/wmz"]
+	path = "Python/Conversion/wmz"
+	url = "https://gist.github.com/aspose-com-gists/0186de259d2f14b7e62b3857c40382f0"
 [submodule "Python/Convert"]
 	path = "Python/Convert"
 	url = "https://gist.github.com/aspose-com-gists/e1d418ed58a1f4598f259e62914511d4"
