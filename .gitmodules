@@ -271,6 +271,9 @@
 [submodule "Net/Adjust"]
 	path = "Net/Adjust"
 	url = "https://gist.github.com/aspose-com-gists/e0edfb82b59e3dfa4cbb620a45150480"
+[submodule "Net/Alpha Blending"]
+	path = "Net/Alpha Blending"
+	url = "https://gist.github.com/aspose-com-gists/09b74775d8be530be38f26ae5b56ad01"
 [submodule "Net/Binarize"]
 	path = "Net/Binarize"
 	url = "https://gist.github.com/aspose-com-gists/71c0516ed0eaff60994a716cfb062a6a"
