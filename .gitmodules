@@ -4,6 +4,9 @@
 [submodule "Java/Adjust"]
 	path = "Java/Adjust"
 	url = "https://gist.github.com/aspose-com-gists/822bcdd56fb7d62b05d9d0ad94cfba29"
+[submodule "Java/Alpha Blending"]
+	path = "Java/Alpha Blending"
+	url = "https://gist.github.com/aspose-com-gists/ec0f58e33fbb2678ecd3c0fd2f9a0eb2"
 [submodule "Java/Binarize"]
 	path = "Java/Binarize"
 	url = "https://gist.github.com/aspose-com-gists/daac19b481878f17e5e6caadd16bb490"
@@ -646,6 +649,9 @@
 [submodule "Python/Adjust"]
 	path = "Python/Adjust"
 	url = "https://gist.github.com/aspose-com-gists/eb0416485d011f42fdaa4412588177a3"
+[submodule "Python/Alpha Blending"]
+	path = "Python/Alpha Blending"
+	url = "https://gist.github.com/aspose-com-gists/afd9bfb6106e0734c36dfa251094bad9"
 [submodule "Python/Binarize"]
 	path = "Python/Binarize"
 	url = "https://gist.github.com/aspose-com-gists/3fa6b0222e82664ed1216a1a2f5d3663"
