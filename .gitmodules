@@ -928,6 +928,9 @@
 [submodule "Python/Merge"]
 	path = "Python/Merge"
 	url = "https://gist.github.com/aspose-com-gists/d0728503653a0997a302ddc082221e30"
+[submodule "Python/RemoveBackground"]
+	path = "Python/RemoveBackground"
+	url = "https://gist.github.com/aspose-com-gists/291380aac991e0869dbabba3e60f5225"
 [submodule "Python/Resize"]
 	path = "Python/Resize"
 	url = "https://gist.github.com/aspose-com-gists/0b3caaec9f637bf3eb6916ce7b70603c"
