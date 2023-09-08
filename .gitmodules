@@ -451,6 +451,9 @@
 [submodule "Net/Licensing"]
 	path = "Net/Licensing"
 	url = "https://gist.github.com/aspose-com-gists/0881be76ce67d68226308289da9b657c"
+[submodule "Net/Magic Wand"]
+	path = "Net/Magic Wand"
+	url = "https://gist.github.com/aspose-com-gists/070228728984c7a658066d52a08044b7"
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Bmp Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Bmp Images"
 	url = "https://gist.github.com/aspose-com-gists/77eea2fa6129b23d80c4c0de9f13f2f6"
