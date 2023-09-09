@@ -181,6 +181,9 @@
 [submodule "Java/Licensing"]
 	path = "Java/Licensing"
 	url = "https://gist.github.com/aspose-com-gists/9656a0a7eedb4b07ab8a2922e161f63d"
+[submodule "Java/Magic Wand"]
+	path = "Java/Magic Wand"
+	url = "https://gist.github.com/aspose-com-gists/af8fa5e0ddd6a6b3c728ef316f1fc318"
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Bmp Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Bmp Images"
 	url = "https://gist.github.com/aspose-com-gists/5f0a945174e6ac022f75e1d66dc565f5"
@@ -817,6 +820,9 @@
 [submodule "Python/Licensing"]
 	path = "Python/Licensing"
 	url = "https://gist.github.com/aspose-com-gists/28a927648a9072b9c68328fd91a9c697"
+[submodule "Python/Magic Wand"]
+	path = "Python/Magic Wand"
+	url = "https://gist.github.com/aspose-com-gists/bc2a6d39abf8d6e186411a663b1b1224"
 [submodule "Python/Manipulate Different Image FileFormats/Manipulate Bmp Images"]
 	path = "Python/Manipulate Different Image FileFormats/Manipulate Bmp Images"
 	url = "https://gist.github.com/aspose-com-gists/6f1862f55df5aa88d7927cf00f3c8b41"
