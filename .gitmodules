@@ -262,6 +262,9 @@
 [submodule "Java/RemoveBackground"]
 	path = "Java/RemoveBackground"
 	url = "https://gist.github.com/aspose-com-gists/26a3ef7a80fab1d53054422a388087a2"
+[submodule "Java/RemoveWatermark"]
+	path = "Java/RemoveWatermark"
+	url = "https://gist.github.com/aspose-com-gists/3899d43a1ee9b6ada0bf45acacef8412"
 [submodule "Java/Resize"]
 	path = "Java/Resize"
 	url = "https://gist.github.com/aspose-com-gists/c23856d7fdf11ecc5bcf73a03ad0a44d"
@@ -598,6 +601,9 @@
 [submodule "Net/RemoveBackground"]
 	path = "Net/RemoveBackground"
 	url = "https://gist.github.com/aspose-com-gists/c28d7d7f7dff39444751b5724d5ba14a"
+[submodule "Net/RemoveWatermark"]
+	path = "Net/RemoveWatermark"
+	url = "https://gist.github.com/aspose-com-gists/5f0197ade4ee961e53bbf40ba834eefe"
 [submodule "Net/Resize"]
 	path = "Net/Resize"
 	url = "https://gist.github.com/aspose-com-gists/86c29f2c35c7c19a0ae65cea371ab3e5"
@@ -940,6 +946,9 @@
 [submodule "Python/RemoveBackground"]
 	path = "Python/RemoveBackground"
 	url = "https://gist.github.com/aspose-com-gists/291380aac991e0869dbabba3e60f5225"
+[submodule "Python/RemoveWatermark"]
+	path = "Python/RemoveWatermark"
+	url = "https://gist.github.com/aspose-com-gists/bdeef81eec0653b2096497be988d01ec"
 [submodule "Python/Resize"]
 	path = "Python/Resize"
 	url = "https://gist.github.com/aspose-com-gists/0b3caaec9f637bf3eb6916ce7b70603c"
