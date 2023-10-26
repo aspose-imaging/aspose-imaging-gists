@@ -484,6 +484,9 @@
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Emf Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Emf Images"
 	url = "https://gist.github.com/aspose-com-gists/901e9cb1e784cc1cdc3d9550a1e74136"
+[submodule "Net/Manipulate Different Image FileFormats/Manipulate Eps Images"]
+	path = "Net/Manipulate Different Image FileFormats/Manipulate Eps Images"
+	url = "https://gist.github.com/aspose-com-gists/6e07233cee28228d390f9d89418ac72d"
 [submodule "Net/Manipulate Different Image FileFormats/Manipulate Fodg Images"]
 	path = "Net/Manipulate Different Image FileFormats/Manipulate Fodg Images"
 	url = "https://gist.github.com/aspose-com-gists/d865fbe09f37c7898c25ef43acbd2190"
