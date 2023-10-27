@@ -208,6 +208,9 @@
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Emf Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Emf Images"
 	url = "https://gist.github.com/aspose-com-gists/89c35b22f6e38abb0c87459cfa28b8be"
+[submodule "Java/Manipulate Different Image FileFormats/Manipulate Eps Images"]
+	path = "Java/Manipulate Different Image FileFormats/Manipulate Eps Images"
+	url = "https://gist.github.com/aspose-com-gists/b3691dae7cbfae29eda2e3c45d75c514"
 [submodule "Java/Manipulate Different Image FileFormats/Manipulate Fodg Images"]
 	path = "Java/Manipulate Different Image FileFormats/Manipulate Fodg Images"
 	url = "https://gist.github.com/aspose-com-gists/ef39169c323a8ca365be9ee4e90ded4c"
@@ -256,6 +259,9 @@
 [submodule "Java/Manipulate Images/Convert emf wmf images"]
 	path = "Java/Manipulate Images/Convert emf wmf images"
 	url = "https://gist.github.com/aspose-com-gists/3628082647129921163d0b0c5af28d18"
+[submodule "Java/Manipulate Images/Convert eps images"]
+	path = "Java/Manipulate Images/Convert eps images"
+	url = "https://gist.github.com/aspose-com-gists/837f145431b5f9d11df9180e888451e7"
 [submodule "Java/Merge"]
 	path = "Java/Merge"
 	url = "https://gist.github.com/aspose-com-gists/d8c86be526ab92ccc5eaafd1eaa1320b"
@@ -856,6 +862,9 @@
 [submodule "Python/Manipulate Different Image FileFormats/Manipulate Emf Images"]
 	path = "Python/Manipulate Different Image FileFormats/Manipulate Emf Images"
 	url = "https://gist.github.com/aspose-com-gists/fa00c266e2a6d57db8a86181eb8fb117"
+[submodule "Python/Manipulate Different Image FileFormats/Manipulate Eps Images"]
+	path = "Python/Manipulate Different Image FileFormats/Manipulate Eps Images"
+	url = "https://gist.github.com/aspose-com-gists/e9228688e0d1119d4e41cf361d646af0"
 [submodule "Python/Manipulate Different Image FileFormats/Manipulate Fodg Images"]
 	path = "Python/Manipulate Different Image FileFormats/Manipulate Fodg Images"
 	url = "https://gist.github.com/aspose-com-gists/c441996ef2cabda7ce02ed5ebd7d39e2"
