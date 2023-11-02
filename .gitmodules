@@ -676,6 +676,9 @@
 [submodule "Python/Binarize"]
 	path = "Python/Binarize"
 	url = "https://gist.github.com/aspose-com-gists/3fa6b0222e82664ed1216a1a2f5d3663"
+[submodule "Python/Cartoonify"]
+	path = "Python/Cartoonify"
+	url = "https://gist.github.com/aspose-com-gists/cbeea164102d309419f3454eb5ccfb14"
 [submodule "Python/Compress"]
 	path = "Python/Compress"
 	url = "https://gist.github.com/aspose-com-gists/5dfa86762d4715af48f60319325abff2"
