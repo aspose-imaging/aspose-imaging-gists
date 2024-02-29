@@ -589,18 +589,33 @@
 [submodule "Net/Merge"]
 	path = "Net/Merge"
 	url = "https://gist.github.com/aspose-com-gists/c3b1f39eaf550446e244e071b29d5191"
+[submodule "Net/PlugIn/Animation Maker"]
+	path = "Net/PlugIn/Animation Maker"
+	url = "https://gist.github.com/aspose-com-gists/c861df21437a981064c307c5b4e6cc4d"
 [submodule "Net/PlugIn/Common"]
 	path = "Net/PlugIn/Common"
 	url = "https://gist.github.com/aspose-com-gists/9d84d3931cbd1402f3238b22307f58f9"
+[submodule "Net/PlugIn/Compress plugin"]
+	path = "Net/PlugIn/Compress plugin"
+	url = "https://gist.github.com/aspose-com-gists/2be5f8724e473eb210f3157ee372ec27"
 [submodule "Net/PlugIn/Conversion plugin"]
 	path = "Net/PlugIn/Conversion plugin"
 	url = "https://gist.github.com/aspose-com-gists/7f3a1026f5445e0ec258b514403c2426"
 [submodule "Net/PlugIn/Crop plugin"]
 	path = "Net/PlugIn/Crop plugin"
 	url = "https://gist.github.com/aspose-com-gists/8121f0043a3810ac7802ba3209ee8eae"
+[submodule "Net/PlugIn/Deskew plugin"]
+	path = "Net/PlugIn/Deskew plugin"
+	url = "https://gist.github.com/aspose-com-gists/a2d7eaa8bfac925912b7e87f25401bac"
+[submodule "Net/PlugIn/Flip-rotate"]
+	path = "Net/PlugIn/Flip-rotate"
+	url = "https://gist.github.com/aspose-com-gists/57f44d83f0d224069a580ffe2f7f4e81"
 [submodule "Net/PlugIn/Image album plugin"]
 	path = "Net/PlugIn/Image album plugin"
 	url = "https://gist.github.com/aspose-com-gists/01fededbe3304aa5de8d832a2a818ed0"
+[submodule "Net/PlugIn/Image effect"]
+	path = "Net/PlugIn/Image effect"
+	url = "https://gist.github.com/aspose-com-gists/0c3f7022637ccea423ded30abc12fffd"
 [submodule "Net/PlugIn/Merge plugin"]
 	path = "Net/PlugIn/Merge plugin"
 	url = "https://gist.github.com/aspose-com-gists/74bc29dc5d40264dc96cfeac8493c3d4"
