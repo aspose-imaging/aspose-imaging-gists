@@ -265,6 +265,39 @@
 [submodule "Java/Merge"]
 	path = "Java/Merge"
 	url = "https://gist.github.com/aspose-com-gists/d8c86be526ab92ccc5eaafd1eaa1320b"
+[submodule "Java/PlugIn/Animation Maker"]
+	path = "Java/PlugIn/Animation Maker"
+	url = "https://gist.github.com/aspose-com-gists/ca07fcdabe6005fdfc326e4e2b9cda07"
+[submodule "Java/PlugIn/Common"]
+	path = "Java/PlugIn/Common"
+	url = "https://gist.github.com/aspose-com-gists/479976daf421ac1316b12198751b8766"
+[submodule "Java/PlugIn/Compress plugin"]
+	path = "Java/PlugIn/Compress plugin"
+	url = "https://gist.github.com/aspose-com-gists/3776240a957b1c4f396c2330ca12e573"
+[submodule "Java/PlugIn/Conversion plugin"]
+	path = "Java/PlugIn/Conversion plugin"
+	url = "https://gist.github.com/aspose-com-gists/232ad448b1429a43665e1d96183afd5b"
+[submodule "Java/PlugIn/Crop plugin"]
+	path = "Java/PlugIn/Crop plugin"
+	url = "https://gist.github.com/aspose-com-gists/a077609483b685d2ac6973b960396d94"
+[submodule "Java/PlugIn/Deskew plugin"]
+	path = "Java/PlugIn/Deskew plugin"
+	url = "https://gist.github.com/aspose-com-gists/a9cf7f7c820f69b22f9db971c7bfc3d8"
+[submodule "Java/PlugIn/Flip-rotate"]
+	path = "Java/PlugIn/Flip-rotate"
+	url = "https://gist.github.com/aspose-com-gists/266ac73633e942d8dc35f4e991c7666f"
+[submodule "Java/PlugIn/Image album plugin"]
+	path = "Java/PlugIn/Image album plugin"
+	url = "https://gist.github.com/aspose-com-gists/51c020b5d9ce37c1aca65f850908f8dd"
+[submodule "Java/PlugIn/Image effect"]
+	path = "Java/PlugIn/Image effect"
+	url = "https://gist.github.com/aspose-com-gists/42d10624eef7110c082940842ce6b2ca"
+[submodule "Java/PlugIn/Merge plugin"]
+	path = "Java/PlugIn/Merge plugin"
+	url = "https://gist.github.com/aspose-com-gists/3e934b777ae331ff6c5b1377184f79b5"
+[submodule "Java/PlugIn/Resize plugin"]
+	path = "Java/PlugIn/Resize plugin"
+	url = "https://gist.github.com/aspose-com-gists/08aa1fbba07021f4c7a9705428be7f7b"
 [submodule "Java/RemoveBackground"]
 	path = "Java/RemoveBackground"
 	url = "https://gist.github.com/aspose-com-gists/26a3ef7a80fab1d53054422a388087a2"
