@@ -313,6 +313,9 @@
 [submodule "Java/Watermark"]
 	path = "Java/Watermark"
 	url = "https://gist.github.com/aspose-com-gists/1ac443cce5aab9d32ad152570c716c05"
+[submodule "Net/Adapters/Pdf.Adapter"]
+	path = "Net/Adapters/Pdf.Adapter"
+	url = "https://gist.github.com/aspose-com-gists/d819c6476331afe070f9285262c7e6e9"
 [submodule "Net/AddXmpTagsToDicomImage"]
 	path = "Net/AddXmpTagsToDicomImage"
 	url = "https://gist.github.com/aspose-com-gists/5c1ecbaf9a07481abfb732ea6c41ae0f"
