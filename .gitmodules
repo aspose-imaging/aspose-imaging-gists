@@ -340,6 +340,9 @@
 [submodule "Net/Conversion/apng"]
 	path = "Net/Conversion/apng"
 	url = "https://gist.github.com/aspose-com-gists/e6756e10d2c1e793c74b42a091958ece"
+[submodule "Net/Conversion/avif"]
+	path = "Net/Conversion/avif"
+	url = "https://gist.github.com/aspose-com-gists/0967b399090c5471f82f46f88b2c0626"
 [submodule "Net/Conversion/bmp"]
 	path = "Net/Conversion/bmp"
 	url = "https://gist.github.com/aspose-com-gists/6ec855304907234b26961df70f13afb0"
