@@ -19,6 +19,9 @@
 [submodule "Java/Conversion/apng"]
 	path = "Java/Conversion/apng"
 	url = "https://gist.github.com/aspose-com-gists/07bd18a1af2633c99a708341d84b5ad2"
+[submodule "Java/Conversion/avif"]
+	path = "Java/Conversion/avif"
+	url = "https://gist.github.com/aspose-com-gists/979827d1274e683a528a7a37ac8c5ffd"
 [submodule "Java/Conversion/bmp"]
 	path = "Java/Conversion/bmp"
 	url = "https://gist.github.com/aspose-com-gists/b5f2fbf9e4a8a5aa6094ef695a2f7e2a"
@@ -742,6 +745,9 @@
 [submodule "Python/Conversion/apng"]
 	path = "Python/Conversion/apng"
 	url = "https://gist.github.com/aspose-com-gists/e670cbd79d6e5f5a83df888fb1ff0509"
+[submodule "Python/Conversion/avif"]
+	path = "Python/Conversion/avif"
+	url = "https://gist.github.com/aspose-com-gists/636230be89cc7d55e66006823ebce531"
 [submodule "Python/Conversion/bmp"]
 	path = "Python/Conversion/bmp"
 	url = "https://gist.github.com/aspose-com-gists/455ab6bdea8e09c1c9bc25bc5b314bc3"
