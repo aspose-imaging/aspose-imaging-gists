@@ -1,3 +1,6 @@
+[submodule "Java/Adapters/Heic.Adapter"]
+	path = "Java/Adapters/Heic.Adapter"
+	url = "https://gist.github.com/aspose-com-gists/e28723548b908c4a905c0a9defb45b26"
 [submodule "Java/AddXmpTagsToDicomImage"]
 	path = "Java/AddXmpTagsToDicomImage"
 	url = "https://gist.github.com/aspose-com-gists/9976b96470633bff33542ae9f42431f9"
