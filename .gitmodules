@@ -616,6 +616,9 @@
 [submodule "Net/Manipulate Images/Deskew image"]
 	path = "Net/Manipulate Images/Deskew image"
 	url = "https://gist.github.com/aspose-com-gists/1bd8410d9f9b1b69a2becdb54d136735"
+[submodule "Net/Manipulate Images/Digital Signature"]
+	path = "Net/Manipulate Images/Digital Signature"
+	url = "https://gist.github.com/aspose-com-gists/517701807ffb1fd41f0c42ba95e5ad16"
 [submodule "Net/Manipulate Images/Median and Weiner filters"]
 	path = "Net/Manipulate Images/Median and Weiner filters"
 	url = "https://gist.github.com/aspose-com-gists/c03f82411d05cb85e2fb8be924e54f0b"
